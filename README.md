@@ -1,4 +1,4 @@
-# RF ADV Reference Design Libraries - C#
+# RF ADV Reference Design Libraries - LabVIEW
 
 
 ## Overview
