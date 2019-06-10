@@ -9,23 +9,23 @@
 </Property>
 	<Item Name="Measurements" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="ACP Configure.vi" Type="VI" URL="../Measurements/ACP Configure.vi"/>
-		<Item Name="ACP Fetch.vi" Type="VI" URL="../Measurements/ACP Fetch.vi"/>
-		<Item Name="ModAcc Configure.vi" Type="VI" URL="../Measurements/ModAcc Configure.vi"/>
-		<Item Name="ModAcc Fetch.vi" Type="VI" URL="../Measurements/ModAcc Fetch.vi"/>
+		<Item Name="LTE ACP Configure.vi" Type="VI" URL="../Measurements/LTE ACP Configure.vi"/>
+		<Item Name="LTE ACP Fetch.vi" Type="VI" URL="../Measurements/LTE ACP Fetch.vi"/>
+		<Item Name="LTE ModAcc Configure.vi" Type="VI" URL="../Measurements/LTE ModAcc Configure.vi"/>
+		<Item Name="LTE ModAcc Fetch.vi" Type="VI" URL="../Measurements/LTE ModAcc Fetch.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="LTE Common Configuration.ctl" Type="VI" URL="../Typedefs/LTE Common Configuration.ctl"/>
 		<Item Name="LTE Signal Configuration.ctl" Type="VI" URL="../Typedefs/LTE Signal Configuration.ctl"/>
 		<Item Name="LTE CC Configuration.ctl" Type="VI" URL="../Typedefs/LTE CC Configuration.ctl"/>
-		<Item Name="ModAcc Configuration.ctl" Type="VI" URL="../Typedefs/ModAcc Configuration.ctl"/>
-		<Item Name="ModAcc CC Results.ctl" Type="VI" URL="../Typedefs/ModAcc CC Results.ctl"/>
-		<Item Name="ModAcc Results.ctl" Type="VI" URL="../Typedefs/ModAcc Results.ctl"/>
-		<Item Name="ACP Configuration.ctl" Type="VI" URL="../Typedefs/ACP Configuration.ctl"/>
-		<Item Name="ACP Offset Results.ctl" Type="VI" URL="../Typedefs/ACP Offset Results.ctl"/>
-		<Item Name="ACP CC Results.ctl" Type="VI" URL="../Typedefs/ACP CC Results.ctl"/>
-		<Item Name="ACP Results.ctl" Type="VI" URL="../Typedefs/ACP Results.ctl"/>
+		<Item Name="LTE ModAcc Configuration.ctl" Type="VI" URL="../Typedefs/LTE ModAcc Configuration.ctl"/>
+		<Item Name="LTE ModAcc CC Results.ctl" Type="VI" URL="../Typedefs/LTE ModAcc CC Results.ctl"/>
+		<Item Name="LTE ModAcc Results.ctl" Type="VI" URL="../Typedefs/LTE ModAcc Results.ctl"/>
+		<Item Name="LTE ACP Configuration.ctl" Type="VI" URL="../Typedefs/LTE ACP Configuration.ctl"/>
+		<Item Name="LTE ACP Offset Results.ctl" Type="VI" URL="../Typedefs/LTE ACP Offset Results.ctl"/>
+		<Item Name="LTE ACP CC Results.ctl" Type="VI" URL="../Typedefs/LTE ACP CC Results.ctl"/>
+		<Item Name="LTE ACP Results.ctl" Type="VI" URL="../Typedefs/LTE ACP Results.ctl"/>
 	</Item>
 	<Item Name="LTE Common Configure.vi" Type="VI" URL="../LTE Common Configure.vi"/>
 	<Item Name="LTE Signal Configure.vi" Type="VI" URL="../LTE Signal Configure.vi"/>
