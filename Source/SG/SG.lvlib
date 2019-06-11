@@ -26,6 +26,7 @@
 		<Item Name="Load Wavform From TDMS.vi" Type="VI" URL="../Load Wavform From TDMS.vi"/>
 		<Item Name="Instrument Download Waveform.vi" Type="VI" URL="../Instrument Download Waveform.vi"/>
 		<Item Name="Configure Waveform Timing and PA Control.vi" Type="VI" URL="../Configure Waveform Timing and PA Control.vi"/>
+		<Item Name="Get Waveform Parameters By Name.vi" Type="VI" URL="../Get Waveform Parameters By Name.vi"/>
 	</Item>
 	<Item Name="Internal" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

@@ -9,14 +9,12 @@
 </Property>
 	<Item Name="Generation" Type="Folder">
 		<Item Name="Format Waveform Name.vi" Type="VI" URL="../Generation/Format Waveform Name.vi"/>
-		<Item Name="Read Stored Waveform Burst Length.vi" Type="VI" URL="../Generation/Read Stored Waveform Burst Length.vi"/>
 	</Item>
 	<Item Name="Measurement" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Calculate Gain.vi" Type="VI" URL="../Measurement/Calculate Gain.vi"/>
 		<Item Name="Calculate PAE.vi" Type="VI" URL="../Measurement/Calculate PAE.vi"/>
 		<Item Name="Calculate Flatness.vi" Type="VI" URL="../Measurement/Calculate Flatness.vi"/>
-		<Item Name="Calculate PulseEn Parameters.vi" Type="VI" URL="../Measurement/Calculate PulseEn Parameters.vi"/>
 		<Item Name="Plot IV Response.vi" Type="VI" URL="../Measurement/Plot IV Response.vi"/>
 		<Item Name="Calculate IV Average.vi" Type="VI" URL="../Measurement/Calculate IV Average.vi"/>
 	</Item>
