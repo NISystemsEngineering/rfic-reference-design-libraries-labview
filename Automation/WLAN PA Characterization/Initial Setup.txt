@@ -1,0 +1,15 @@
+Before running this example, you must manually configure the following TestStand directories under Configure » Search Directories...
+
+For LabVIEW 64-Bit:
+- C:\Program Files\National Instruments\LabVIEW <YEAR>\instr.lib\niRFSG\
+- C:\Program Files\National Instruments\LabVIEW <YEAR>\instr.lib\niDCPower\
+- C:\Program Files\National Instruments\LabVIEW <YEAR>\vi.lib\RFmx\
+- C:\Program Files\National Instruments\LabVIEW <YEAR>\instr.lib\niRFSGPlayback\
+
+For LabVIEW 32-Bit:
+- C:\Program Files (x86)\National Instruments\LabVIEW <YEAR>\instr.lib\niRFSG\
+- C:\Program Files (x86)\National Instruments\LabVIEW <YEAR>\instr.lib\niDCPower\
+- C:\Program Files (x86)\National Instruments\LabVIEW <YEAR>\vi.lib\RFmx\
+- C:\Program Files (x86)\National Instruments\LabVIEW 2018\instr.lib\niRFSGPlayback\
+
+Additionally, you need to configure the LabVIEW adapter for TestStand to use the LabVIEW development environment. Navigate to Configure » Adapters... LabVIEW » Configure..., and select LabVIEW Development System as the Type of Server to use.
