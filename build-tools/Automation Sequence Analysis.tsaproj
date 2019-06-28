@@ -294,7 +294,7 @@
 													<value>NI_UnusedSequence</value>
 												</RuleId>
 												<Enabled classname='Bool'>
-													<value>false</value>
+													<value>true</value>
 												</Enabled>
 												<ConfigurationData classname='Obj'/>
 												<RuleSettings classname='Objs'>
@@ -360,7 +360,7 @@
 													<value>NI_StepCount</value>
 												</RuleId>
 												<Enabled classname='Bool'>
-													<value>false</value>
+													<value>true</value>
 												</Enabled>
 												<ConfigurationData classname='Obj'/>
 												<RuleSettings classname='Objs'>
@@ -437,7 +437,7 @@
 													<value>NI_SequenceCount</value>
 												</RuleId>
 												<Enabled classname='Bool'>
-													<value>false</value>
+													<value>true</value>
 												</Enabled>
 												<ConfigurationData classname='Obj'/>
 												<RuleSettings classname='Objs'>
@@ -496,7 +496,7 @@
 													<value>NI_SequenceFileCount</value>
 												</RuleId>
 												<Enabled classname='Bool'>
-													<value>false</value>
+													<value>true</value>
 												</Enabled>
 												<ConfigurationData classname='Obj'/>
 												<RuleSettings classname='Objs'>
@@ -518,7 +518,7 @@
 													<value>NI_FileByExpression</value>
 												</RuleId>
 												<Enabled classname='Bool'>
-													<value>false</value>
+													<value>true</value>
 												</Enabled>
 												<ConfigurationData classname='Obj'/>
 												<RuleSettings classname='Objs'>
@@ -694,7 +694,7 @@
 													<value>NI_DynamicPropertyDoesNotExist</value>
 												</RuleId>
 												<Enabled classname='Bool'>
-													<value>false</value>
+													<value>true</value>
 												</Enabled>
 												<ConfigurationData classname='Obj'/>
 												<RuleSettings classname='Objs'>
@@ -782,7 +782,7 @@
 													<value>NI_SuppressedEvaluationErrors</value>
 												</RuleId>
 												<Enabled classname='Bool'>
-													<value>false</value>
+													<value>true</value>
 												</Enabled>
 												<ConfigurationData classname='Obj'/>
 												<RuleSettings classname='Objs'>
