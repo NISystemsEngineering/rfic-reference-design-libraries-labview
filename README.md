@@ -1,4 +1,4 @@
-# RF ADV Reference Design Libraries - LabVIEW 
+# RFIC Reference Design Libraries - LabVIEW 
 ![Build status](https://dev.azure.com/ni/ASE/_apis/build/status/ADV%20Reference%20Design%20Libraries/labview-rdl-build)
 
 
