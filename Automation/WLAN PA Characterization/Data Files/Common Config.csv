@@ -1,0 +1,73 @@
+<PropertyGroup name='Group 1' id='7c3e92f0-4234-481a-a9a4-be15cbd8ee7d' description='Description for Group 1'>,,
+<Category>,<PropertyLookup>,<Value>
+{FileGlobals},Configurations {Container},
+{FileGlobals},Configurations.Analyzer {Container},
+{FileGlobals},Configurations.Analyzer.WLAN_Config {WLAN_Config},
+{FileGlobals},Configurations.Analyzer.WLAN_Config.Reference_Clock_Source {String},PXI_CLK
+{FileGlobals},Configurations.Analyzer.WLAN_Config.SA_LO_Source {String},LO_In
+{FileGlobals},Configurations.Analyzer.WLAN_Config.RFSA_Min_Quiet_Time {Number},1.00E-05
+{FileGlobals},Configurations.Analyzer.WLAN_Config.Trigger_Source {String},PXI_Trig0
+{FileGlobals},Configurations.Analyzer.WLAN_Config.Trigger_Edge {WLAN_Config_Trigger_Edge},"""Rising Edge"""
+{FileGlobals},Configurations.Analyzer.WLAN_Signal_Configuration {WLAN_Signal_Configuration},
+{FileGlobals},Configurations.Analyzer.WLAN_Signal_Configuration.Noise_Comp_Enabled {WLAN_Signal_Configuration_Noise_Comp_Enabled},0
+{FileGlobals},Configurations.Analyzer.WLAN_Signal_Configuration.Optimize_Ref_Level_for_EVM {WLAN_Signal_Configuration_Optimize_Ref_Level_for_EVM},"""False"""
+{FileGlobals},Configurations.Analyzer.WLAN_Signal_Configuration.Optimize_Ref_Level_Margin__dB_ {Number},0
+{FileGlobals},Configurations.Analyzer.WLAN_Autolevel_Settings {WLAN_AutoLevel_Settings},
+{FileGlobals},Configurations.Analyzer.WLAN_Autolevel_Settings.Reference_Level {Number},20
+{FileGlobals},Configurations.Analyzer.WLAN_Autolevel_Settings.Auto_Level_Reference_Level {Boolean},FALSE
+{FileGlobals},Configurations.Analyzer.WLAN_Autolevel_Settings.Auto_Level_Measurement_Time {Number},0.01
+{FileGlobals},Configurations.Common {Container},
+{FileGlobals},Configurations.Common.Eval_Board_Losses {Container},
+{FileGlobals},Configurations.Common.Eval_Board_Losses.Input {Number},0.2
+{FileGlobals},Configurations.Common.Eval_Board_Losses.Output {Number},0.2
+{FileGlobals},Configurations.Generator {Container},
+{FileGlobals},Configurations.Generator.PAEN_Timing {PAEN_Timing},
+{FileGlobals},Configurations.Generator.PAEN_Timing.tRF__s_ {Number},0
+{FileGlobals},Configurations.Generator.PAEN_Timing.Duty_Cycle {Number},50
+{FileGlobals},Configurations.Generator.PAEN_Timing.t1__s_ {Number},1.00E-06
+{FileGlobals},Configurations.Generator.PAEN_Timing.t2__s_ {Number},1.00E-06
+{FileGlobals},Configurations.Generator.PAEN_Timing.t3__s_ {Number},0
+{FileGlobals},Configurations.Generator.PAEN_Timing.Period__s_ {Number},0
+{FileGlobals},Configurations.Generator.PAEN_Timing.WLAN_PFI_Mode {PAEN_Timing_WLAN_PFI_Mode},"""Dynamic"""
+{FileGlobals},Configurations.Generator.RFSGConfig {RFSG_Config},
+{FileGlobals},Configurations.Generator.RFSGConfig.Reference_Clock_Source {String},OnboardClock
+{FileGlobals},Configurations.Generator.RFSGConfig.Marker_0_Export_Terminal {String},PXI_Trig0
+{FileGlobals},Configurations.Generator.RFSGConfig.Share_LO__SG__SA {Boolean},TRUE
+{FileGlobals},Configurations.Generator.RFSGConfig.DUT_Average_Input_Power__dBm_ {Number},-20
+{FileGlobals},Configurations.Generator.LO_Offset_Settings {SG_LO_Offset_Settings},
+{FileGlobals},Configurations.Generator.LO_Offset_Settings.LO_Offset_Mode {SG_LO_Offset_Settings_LO_Offset_Mode},"""Auto"""
+{FileGlobals},Configurations.Generator.LO_Offset_Settings.Custom_LO_Offset {Number},0
+{FileGlobals},Configurations.Measurements {Container},
+{FileGlobals},Configurations.Measurements.ModAcc_Config {WLAN_ModAcc_Config},
+{FileGlobals},Configurations.Measurements.ModAcc_Config.__OFDM_Demod_Averages {Number},10
+{FileGlobals},Configurations.Measurements.ModAcc_Config.Max_Symbols_Used___1___all_ {Number},16
+{FileGlobals},Configurations.Measurements.ModAcc_Config.Ref_Level_Offset__dB_ {Number},-5
+{FileGlobals},Configurations.Measurements.SEM_Config {WLAN_SEM_Config},
+{FileGlobals},Configurations.Measurements.SEM_Config.Spectral_Mask_Num_Averages {Number},1
+{FileGlobals},Configurations.Measurements.TxP_Config {WLAN_TxP_Configuration},
+{FileGlobals},Configurations.Measurements.TxP_Config.Number_of_Averages {Number},1
+{FileGlobals},Configurations.Measurements.TxP_Servo_Config {WLAN_Power_Servo_Settings},
+{FileGlobals},Configurations.Measurements.TxP_Servo_Config.Tolerance__dB_ {Number},0.05
+{FileGlobals},Configurations.Measurements.TxP_Servo_Config.Max_Number_of_Iterations {Number},40
+{FileGlobals},Configurations.Supply {Container},
+{FileGlobals},Configurations.Supply.VCC_Burst_Offset_s {Number},2.50E-05
+{FileGlobals},Configurations.Supply.VCC_Config {SMU_Config},
+{FileGlobals},Configurations.Supply.VCC_Config.Output_Function {SMU_Config_Output_Function1},"""DC Voltage"""
+{FileGlobals},Configurations.Supply.VCC_Config.Channel_s_ {String},0
+{FileGlobals},Configurations.Supply.VCC_Config.Voltage_Level {Number},3.7
+{FileGlobals},Configurations.Supply.VCC_Config.Current_Level {Number},0
+{FileGlobals},Configurations.Supply.VCC_Config.Voltage_Limit {Number},0
+{FileGlobals},Configurations.Supply.VCC_Config.Current_Limit {Number},3
+{FileGlobals},Configurations.Supply.VCC_Config.Transient_Response__V__Gain_Bandwidth {Number},30000
+{FileGlobals},Configurations.Supply.VCC_Config.Transient_Response__V__Compensation_Frequency {Number},20
+{FileGlobals},Configurations.Supply.VCC_Config.Transient_Response__V__Pole_Zero_Ratio {Number},1
+{FileGlobals},Configurations.Supply.VCC_Config.Transient_Response {SMU_Config_Transient_Response},"""Fast"""
+{FileGlobals},Configurations.Supply.VCC_Config.Sense {SMU_Config_Sense},"""Local"""
+{FileGlobals},Configurations.Supply.VCC_Config.Transient_Response__I__Gain_Bandwidth {Number},80000
+{FileGlobals},Configurations.Supply.VCC_Config.Transient_Response__I__Compensation_Frequency {Number},300000
+{FileGlobals},Configurations.Supply.VCC_Config.Transient_Response__I__Pole_Zero_Ratio {Number},5
+{FileGlobals},Configurations.Supply.VCC_Measurement_Config {SMU_Measurement_Settings},
+{FileGlobals},Configurations.Supply.VCC_Measurement_Config.DC_Trigger_Type {SMU_Measurement_Settings_DC_Trigger_Type},"""Digital Edge"""
+{FileGlobals},Configurations.Supply.VCC_Measurement_Config.Measurement_Trigger_Input {String},PXI_Trig0
+{FileGlobals},Configurations.Supply.VCC_Measurement_Config.Measurement_Mode {SMU_Measurement_Settings_Measurement_Mode},"""Record"""
+<PropertyGroup>,,
