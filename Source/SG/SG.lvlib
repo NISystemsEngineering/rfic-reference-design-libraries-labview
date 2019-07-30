@@ -17,13 +17,13 @@
 		<Item Name="PAEN Configuration.ctl" Type="VI" URL="../Typedefs/PAEN Configuration.ctl"/>
 	</Item>
 	<Item Name="Configuration" Type="Folder">
-		<Item Name="Instrument Configure.vi" Type="VI" URL="../Instrument Configure.vi"/>
+		<Item Name="Configure Instrument.vi" Type="VI" URL="../Configure Instrument.vi"/>
 		<Item Name="Set WLAN LO Offset.vi" Type="VI" URL="../Set WLAN LO Offset.vi"/>
 	</Item>
 	<Item Name="Waveforms" Type="Folder">
 		<Item Name="Apply CFR to Waveform.vi" Type="VI" URL="../Apply CFR to Waveform.vi"/>
 		<Item Name="Load Wavform From TDMS.vi" Type="VI" URL="../Load Wavform From TDMS.vi"/>
-		<Item Name="Instrument Download Waveform.vi" Type="VI" URL="../Instrument Download Waveform.vi"/>
+		<Item Name="Download Waveform.vi" Type="VI" URL="../Download Waveform.vi"/>
 		<Item Name="Configure Waveform Timing and PA Control.vi" Type="VI" URL="../Configure Waveform Timing and PA Control.vi"/>
 		<Item Name="Get Waveform Parameters By Name.vi" Type="VI" URL="../Get Waveform Parameters By Name.vi"/>
 	</Item>
