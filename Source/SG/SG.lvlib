@@ -10,7 +10,6 @@
 </Property>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Instrument Configuration.ctl" Type="VI" URL="../Typedefs/Instrument Configuration.ctl"/>
-		<Item Name="LO Offset Config.ctl" Type="VI" URL="../Typedefs/LO Offset Config.ctl"/>
 		<Item Name="Pre DPD CFR Configuration.ctl" Type="VI" URL="../Typedefs/Pre DPD CFR Configuration.ctl"/>
 		<Item Name="Waveform.ctl" Type="VI" URL="../Typedefs/Waveform.ctl"/>
 		<Item Name="Waveform Timing Configuration.ctl" Type="VI" URL="../Typedefs/Waveform Timing Configuration.ctl"/>
@@ -18,7 +17,6 @@
 	</Item>
 	<Item Name="Configuration" Type="Folder">
 		<Item Name="Configure Instrument.vi" Type="VI" URL="../Configure Instrument.vi"/>
-		<Item Name="Set WLAN LO Offset.vi" Type="VI" URL="../Set WLAN LO Offset.vi"/>
 	</Item>
 	<Item Name="Waveforms" Type="Folder">
 		<Item Name="Apply CFR to Waveform.vi" Type="VI" URL="../Apply CFR to Waveform.vi"/>
