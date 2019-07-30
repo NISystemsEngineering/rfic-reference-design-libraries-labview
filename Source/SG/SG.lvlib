@@ -32,6 +32,6 @@
 		<Item Name="Generate Dynamic Script.vi" Type="VI" URL="../Generate Dynamic Script.vi"/>
 		<Item Name="Normalize Waveform.vi" Type="VI" URL="../Normalize Waveform.vi"/>
 	</Item>
-	<Item Name="Instrument Close.vi" Type="VI" URL="../Instrument Close.vi"/>
+	<Item Name="Close Instrument.vi" Type="VI" URL="../Close Instrument.vi"/>
 	<Item Name="Abort Generation.vi" Type="VI" URL="../Abort Generation.vi"/>
 </Library>
