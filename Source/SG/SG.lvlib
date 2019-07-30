@@ -17,12 +17,13 @@
 	</Item>
 	<Item Name="Configuration" Type="Folder">
 		<Item Name="Configure Instrument.vi" Type="VI" URL="../Configure Instrument.vi"/>
+		<Item Name="Configure Bursted Generation.vi" Type="VI" URL="../Configure Bursted Generation.vi"/>
+		<Item Name="Configure Continuous Generation.vi" Type="VI" URL="../Configure Continuous Generation.vi"/>
 	</Item>
 	<Item Name="Waveforms" Type="Folder">
 		<Item Name="Apply CFR to Waveform.vi" Type="VI" URL="../Apply CFR to Waveform.vi"/>
 		<Item Name="Load Wavform From TDMS.vi" Type="VI" URL="../Load Wavform From TDMS.vi"/>
 		<Item Name="Download Waveform.vi" Type="VI" URL="../Download Waveform.vi"/>
-		<Item Name="Configure Waveform Timing and PA Control.vi" Type="VI" URL="../Configure Waveform Timing and PA Control.vi"/>
 		<Item Name="Get Waveform Parameters By Name.vi" Type="VI" URL="../Get Waveform Parameters By Name.vi"/>
 	</Item>
 	<Item Name="Internal" Type="Folder">
@@ -32,5 +33,5 @@
 		<Item Name="Normalize Waveform.vi" Type="VI" URL="../Normalize Waveform.vi"/>
 	</Item>
 	<Item Name="Instrument Close.vi" Type="VI" URL="../Instrument Close.vi"/>
-	<Item Name="Abort Dynamic Generation.vi" Type="VI" URL="../Abort Dynamic Generation.vi"/>
+	<Item Name="Abort Generation.vi" Type="VI" URL="../Abort Generation.vi"/>
 </Library>
