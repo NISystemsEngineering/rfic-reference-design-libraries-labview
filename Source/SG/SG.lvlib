@@ -18,7 +18,6 @@
 	</Item>
 	<Item Name="Configuration" Type="Folder">
 		<Item Name="Instrument Configure.vi" Type="VI" URL="../Instrument Configure.vi"/>
-		<Item Name="Instrument Configure RF.vi" Type="VI" URL="../Instrument Configure RF.vi"/>
 		<Item Name="Set WLAN LO Offset.vi" Type="VI" URL="../Set WLAN LO Offset.vi"/>
 	</Item>
 	<Item Name="Waveforms" Type="Folder">
