@@ -30,7 +30,6 @@
 				<Item Name="niDCPower Fetch Multiple.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Fetch Multiple.vi"/>
 				<Item Name="niDCPower Initiate.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Initiate.vi"/>
 				<Item Name="niDCPower IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower IVI Error Converter.vi"/>
-				<Item Name="niDCPower Measure Multiple.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Measure Multiple.vi"/>
 				<Item Name="niDCPower Output Function.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Output Function.ctl"/>
 				<Item Name="niDCPower Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Reset.vi"/>
 				<Item Name="niDCPower Send Software Edge Trigger - Signal.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Send Software Edge Trigger - Signal.ctl"/>
@@ -166,6 +165,111 @@
 				<Item Name="RFmxInstr Get Selector String Size.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/Support/RFmxInstrSupport.llb/RFmxInstr Get Selector String Size.vi"/>
 				<Item Name="RFmxInstr Initialize NIRFSA.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Initialize NIRFSA.vi"/>
 				<Item Name="RFmxInstr Initialize.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Initialize.vi"/>
+				<Item Name="RFmxLTE ACP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Averaging.vi"/>
+				<Item Name="RFmxLTE ACP Configure Number of EUTRA Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Number of EUTRA Offsets.vi"/>
+				<Item Name="RFmxLTE ACP Configure Number of GSM Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Number of GSM Offsets.vi"/>
+				<Item Name="RFmxLTE ACP Configure Number of UTRA Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Number of UTRA Offsets.vi"/>
+				<Item Name="RFmxLTE ACP Configure RBW Filter.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure RBW Filter.vi"/>
+				<Item Name="RFmxLTE ACP Configure Sweep Time.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Sweep Time.vi"/>
+				<Item Name="RFmxLTE ACP Fetch Absolute Powers Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Absolute Powers Trace.vi"/>
+				<Item Name="RFmxLTE ACP Fetch Component Carrier Measurement (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Component Carrier Measurement (Array).vi"/>
+				<Item Name="RFmxLTE ACP Fetch Component Carrier Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Component Carrier Measurement.vi"/>
+				<Item Name="RFmxLTE ACP Fetch Offset Measurement (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Offset Measurement (Array).vi"/>
+				<Item Name="RFmxLTE ACP Fetch Offset Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Offset Measurement.vi"/>
+				<Item Name="RFmxLTE ACP Fetch Relative Powers Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Relative Powers Trace.vi"/>
+				<Item Name="RFmxLTE ACP Fetch Spectrum.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Spectrum.vi"/>
+				<Item Name="RFmxLTE ACP Fetch Subblock Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Subblock Measurement.vi"/>
+				<Item Name="RFmxLTE ACP Fetch Total Aggregated Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Total Aggregated Power.vi"/>
+				<Item Name="RFmxLTE ACP Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch.vi"/>
+				<Item Name="RFmxLTE Build Carrier String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Build Carrier String.vi"/>
+				<Item Name="RFmxLTE Build Offset String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Build Offset String.vi"/>
+				<Item Name="RFmxLTE Configure Auto DMRS Detection Enabled.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Auto DMRS Detection Enabled.vi"/>
+				<Item Name="RFmxLTE Configure Auto Resource Block Detection Enabled.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Auto Resource Block Detection Enabled.vi"/>
+				<Item Name="RFmxLTE Configure Band.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Band.vi"/>
+				<Item Name="RFmxLTE Configure Component Carrier Spacing.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Component Carrier Spacing.vi"/>
+				<Item Name="RFmxLTE Configure Component Carrier.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Component Carrier.vi"/>
+				<Item Name="RFmxLTE Configure Digital Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Digital Edge Trigger.vi"/>
+				<Item Name="RFmxLTE Configure Downlink Auto Cell ID Detection Enabled.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Downlink Auto Cell ID Detection Enabled.vi"/>
+				<Item Name="RFmxLTE Configure Downlink Test Model.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Downlink Test Model.vi"/>
+				<Item Name="RFmxLTE Configure Duplex Scheme.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Duplex Scheme.vi"/>
+				<Item Name="RFmxLTE Configure IQ Power Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure IQ Power Edge Trigger.vi"/>
+				<Item Name="RFmxLTE Configure Link Direction.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Link Direction.vi"/>
+				<Item Name="RFmxLTE Configure Number of Component Carriers.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Number of Component Carriers.vi"/>
+				<Item Name="RFmxLTE Configure PUSCH Modulation Type.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure PUSCH Modulation Type.vi"/>
+				<Item Name="RFmxLTE Configure PUSCH Resource Blocks.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure PUSCH Resource Blocks.vi"/>
+				<Item Name="RFmxLTE Configure RF.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure RF.vi"/>
+				<Item Name="RFmxLTE Configure Software Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Software Edge Trigger.vi"/>
+				<Item Name="RFmxLTE Configure Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Trigger.vi"/>
+				<Item Name="RFmxLTE Disable Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Disable Trigger.vi"/>
+				<Item Name="RFmxLTE ModAcc Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Configure Averaging.vi"/>
+				<Item Name="RFmxLTE ModAcc Configure EVM Unit.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Configure EVM Unit.vi"/>
+				<Item Name="RFmxLTE ModAcc Configure Synchronization Mode and Interval.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Configure Synchronization Mode and Interval.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Composite EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Composite EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Composite EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Composite EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Composite Magnitude and Phase Error (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Composite Magnitude and Phase Error (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Composite Magnitude and Phase Error.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Composite Magnitude and Phase Error.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch CSRS Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch CSRS Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch CSRS EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch CSRS EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch CSRS EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch CSRS EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Downlink Detected Cell ID (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Downlink Detected Cell ID (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Downlink Detected Cell ID.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Downlink Detected Cell ID.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Downlink PBCH Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Downlink PBCH Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Downlink PCFICH Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Downlink PCFICH Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Downlink PDCCH Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Downlink PDCCH Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Downlink PHICH Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Downlink PHICH Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Downlink Transmit Power (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Downlink Transmit Power (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Downlink Transmit Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Downlink Transmit Power.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch EVM per Slot Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch EVM per Slot Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch EVM per Subcarrier Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch EVM per Subcarrier Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch EVM per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch EVM per Symbol Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch EVM-High per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch EVM-High per Symbol Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch EVM-Low per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch EVM-Low per Symbol Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch In-Band Emission Margin (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch In-Band Emission Margin (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch In-Band Emission Margin.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch In-Band Emission Margin.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch In-Band Emission Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch In-Band Emission Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch IQ Impairments (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch IQ Impairments (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch IQ Impairments.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch IQ Impairments.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Maximum EVM per Slot Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Maximum EVM per Slot Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Maximum EVM per Subcarrier Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Maximum EVM per Subcarrier Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Maximum EVM per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Maximum EVM per Symbol Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Maximum Magnitude Error per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Maximum Magnitude Error per Symbol Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Maximum Phase Error per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Maximum Phase Error per Symbol Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch NPUSCH Constellation Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch NPUSCH Constellation Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch NPUSCH Data EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch NPUSCH Data EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch NPUSCH DMRS EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch NPUSCH DMRS EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch NPUSCH Symbol Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch NPUSCH Symbol Power.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH 16 QAM Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH 16 QAM Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH 64 QAM Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH 64 QAM Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH 256 QAM Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH 256 QAM Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH 1024 QAM Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH 1024 QAM Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH 1024 QAM EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH 1024 QAM EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH 1024 QAM EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH 1024 QAM EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PDSCH QPSK Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH QPSK Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PUSCH Constellation Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Constellation Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PUSCH Data EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Data EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PUSCH Data EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Data EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PUSCH Demodulated Bits.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Demodulated Bits.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PUSCH DMRS EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH DMRS EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PUSCH DMRS EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH DMRS EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PUSCH Symbol Power (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Symbol Power (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PUSCH Symbol Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Symbol Power.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch RMS Magnitude Error per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch RMS Magnitude Error per Symbol Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch RMS Phase Error per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch RMS Phase Error per Symbol Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Spectral Flatness (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Spectral Flatness (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Spectral Flatness Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Spectral Flatness Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Spectral Flatness.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Spectral Flatness.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch SRS Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch SRS Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch SRS EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch SRS EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch SRS EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch SRS EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Subblock In-Band Emission Margin.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Subblock In-Band Emission Margin.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Subblock In-Band Emission Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Subblock In-Band Emission Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Subblock IQ Impairments.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Subblock IQ Impairments.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Synchronization Signal Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Synchronization Signal Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Synchronization Signal EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Synchronization Signal EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch Synchronization Signal EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Synchronization Signal EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch.vi"/>
 				<Item Name="RFmxSpecAn AMPM Configure DUT Average Input Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn AMPM Configure DUT Average Input Power.vi"/>
 				<Item Name="RFmxSpecAn AMPM Configure Measurement Interval.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn AMPM Configure Measurement Interval.vi"/>
 				<Item Name="RFmxSpecAn AMPM Configure Reference Waveform.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn AMPM Configure Reference Waveform.vi"/>
@@ -330,6 +434,9 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="niRFmxInstr.dll" Type="Document" URL="niRFmxInstr.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="niRFmxLTE.dll" Type="Document" URL="niRFmxLTE.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="niRFmxSpecAn.dll" Type="Document" URL="niRFmxSpecAn.dll">

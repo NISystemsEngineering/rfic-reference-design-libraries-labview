@@ -8,14 +8,13 @@
 
 </Property>
 	<Item Name="Typedefs" Type="Folder">
-		<Item Name="IV Results.ctl" Type="VI" URL="../Typedefs/IV Results.ctl"/>
-		<Item Name="Supply Line Configuration.ctl" Type="VI" URL="../Typedefs/Supply Line Configuration.ctl"/>
-		<Item Name="Supply Line Measurement Settings.ctl" Type="VI" URL="../Typedefs/Supply Line Measurement Settings.ctl"/>
+		<Item Name="Measurement Configuration.ctl" Type="VI" URL="../Typedefs/Measurement Configuration.ctl"/>
+		<Item Name="Measurement Results.ctl" Type="VI" URL="../Typedefs/Measurement Results.ctl"/>
+		<Item Name="Supply Configuration.ctl" Type="VI" URL="../Typedefs/Supply Configuration.ctl"/>
 	</Item>
-	<Item Name="Configure Triggered Source Measurement.vi" Type="VI" URL="../Configure Triggered Source Measurement.vi"/>
-	<Item Name="Measure Suply IV.vi" Type="VI" URL="../Measure Suply IV.vi"/>
-	<Item Name="Measure Triggered Suply IV.vi" Type="VI" URL="../Measure Triggered Suply IV.vi"/>
-	<Item Name="Supply Line Close.vi" Type="VI" URL="../Supply Line Close.vi"/>
-	<Item Name="Supply Line Config.vi" Type="VI" URL="../Supply Line Config.vi"/>
-	<Item Name="Supply Line Turn On or Off.vi" Type="VI" URL="../Supply Line Turn On or Off.vi"/>
+	<Item Name="Close Supply.vi" Type="VI" URL="../Close Supply.vi"/>
+	<Item Name="Configure Measurement.vi" Type="VI" URL="../Configure Measurement.vi"/>
+	<Item Name="Configure Supply.vi" Type="VI" URL="../Configure Supply.vi"/>
+	<Item Name="Measure Supply IV.vi" Type="VI" URL="../Measure Supply IV.vi"/>
+	<Item Name="Turn Supply On or Off.vi" Type="VI" URL="../Turn Supply On or Off.vi"/>
 </Library>
