@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Custom Transient Response.ctl" Type="VI" URL="../Typedefs/Custom Transient Response.ctl"/>
 		<Item Name="Measurement Configuration.ctl" Type="VI" URL="../Typedefs/Measurement Configuration.ctl"/>
 		<Item Name="Measurement Results.ctl" Type="VI" URL="../Typedefs/Measurement Results.ctl"/>
 		<Item Name="Supply Configuration.ctl" Type="VI" URL="../Typedefs/Supply Configuration.ctl"/>
