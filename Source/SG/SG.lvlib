@@ -10,22 +10,20 @@
 </Property>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Instrument Configuration.ctl" Type="VI" URL="../Typedefs/Instrument Configuration.ctl"/>
-		<Item Name="LO Offset Config.ctl" Type="VI" URL="../Typedefs/LO Offset Config.ctl"/>
 		<Item Name="Pre DPD CFR Configuration.ctl" Type="VI" URL="../Typedefs/Pre DPD CFR Configuration.ctl"/>
 		<Item Name="Waveform.ctl" Type="VI" URL="../Typedefs/Waveform.ctl"/>
 		<Item Name="Waveform Timing Configuration.ctl" Type="VI" URL="../Typedefs/Waveform Timing Configuration.ctl"/>
 		<Item Name="PAEN Configuration.ctl" Type="VI" URL="../Typedefs/PAEN Configuration.ctl"/>
 	</Item>
 	<Item Name="Configuration" Type="Folder">
-		<Item Name="Instrument Configure.vi" Type="VI" URL="../Instrument Configure.vi"/>
-		<Item Name="Instrument Configure RF.vi" Type="VI" URL="../Instrument Configure RF.vi"/>
-		<Item Name="Set WLAN LO Offset.vi" Type="VI" URL="../Set WLAN LO Offset.vi"/>
+		<Item Name="Configure Instrument.vi" Type="VI" URL="../Configure Instrument.vi"/>
+		<Item Name="Configure Bursted Generation.vi" Type="VI" URL="../Configure Bursted Generation.vi"/>
+		<Item Name="Configure Continuous Generation.vi" Type="VI" URL="../Configure Continuous Generation.vi"/>
 	</Item>
 	<Item Name="Waveforms" Type="Folder">
 		<Item Name="Apply CFR to Waveform.vi" Type="VI" URL="../Apply CFR to Waveform.vi"/>
 		<Item Name="Load Wavform From TDMS.vi" Type="VI" URL="../Load Wavform From TDMS.vi"/>
-		<Item Name="Instrument Download Waveform.vi" Type="VI" URL="../Instrument Download Waveform.vi"/>
-		<Item Name="Configure Waveform Timing and PA Control.vi" Type="VI" URL="../Configure Waveform Timing and PA Control.vi"/>
+		<Item Name="Download Waveform.vi" Type="VI" URL="../Download Waveform.vi"/>
 		<Item Name="Get Waveform Parameters By Name.vi" Type="VI" URL="../Get Waveform Parameters By Name.vi"/>
 	</Item>
 	<Item Name="Internal" Type="Folder">
@@ -34,6 +32,6 @@
 		<Item Name="Generate Dynamic Script.vi" Type="VI" URL="../Generate Dynamic Script.vi"/>
 		<Item Name="Normalize Waveform.vi" Type="VI" URL="../Normalize Waveform.vi"/>
 	</Item>
-	<Item Name="Instrument Close.vi" Type="VI" URL="../Instrument Close.vi"/>
-	<Item Name="Abort Dynamic Generation.vi" Type="VI" URL="../Abort Dynamic Generation.vi"/>
+	<Item Name="Close Instrument.vi" Type="VI" URL="../Close Instrument.vi"/>
+	<Item Name="Abort Generation.vi" Type="VI" URL="../Abort Generation.vi"/>
 </Library>
