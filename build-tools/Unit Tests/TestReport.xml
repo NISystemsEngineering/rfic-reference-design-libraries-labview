@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+<testsuite name="SG Tests.vi" errors="0" skipped="3" tests="3" failures="0" time="0.000" timestamp="2019-08-21T17:17:48">
+  <testcase classname="SG Tests.vi" name="Properly calculated PAPR for "BT No Burst.tdms"" time="0.000">
+    <failure message="test failure">"FAIL"</failure>
+  </testcase>
+  <testcase classname="SG Tests.vi" name="Properly calculated PAPR for "LTE TDD Waveform.tdms"" time="0.000">
+    <failure message="test failure">"FAIL"</failure>
+  </testcase>
+  <testcase classname="SG Tests.vi" name="Properly calculated PAPR for "WLAN Single Burst.tdms"" time="0.000">
+    <failure message="test failure">"FAIL"</failure>
+  </testcase>
+</testsuite>
+</testsuites>
