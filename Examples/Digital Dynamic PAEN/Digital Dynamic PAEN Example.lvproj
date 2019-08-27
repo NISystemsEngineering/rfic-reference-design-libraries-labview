@@ -226,7 +226,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="RDLUtilities.lvlib" Type="Library" URL="../../../Source/Utilities/RDLUtilities.lvlib"/>
-			<Item Name="SMU.lvlib" Type="Library" URL="../../../Source/SMU/SMU.lvlib"/>
+			<Item Name="Supply.lvlib" Type="Library" URL="../../../Source/Supply/Supply.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
