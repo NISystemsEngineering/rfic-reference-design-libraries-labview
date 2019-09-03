@@ -9,10 +9,10 @@
 </Property>
 	<Item Name="Measurements" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="LTE ACP Configure.vi" Type="VI" URL="../Measurements/LTE ACP Configure.vi"/>
-		<Item Name="LTE ACP Fetch.vi" Type="VI" URL="../Measurements/LTE ACP Fetch.vi"/>
-		<Item Name="LTE ModAcc Configure.vi" Type="VI" URL="../Measurements/LTE ModAcc Configure.vi"/>
-		<Item Name="LTE ModAcc Fetch.vi" Type="VI" URL="../Measurements/LTE ModAcc Fetch.vi"/>
+		<Item Name="LTE Configure ACP.vi" Type="VI" URL="../Measurements/LTE Configure ACP.vi"/>
+		<Item Name="LTE Configure ModAcc.vi" Type="VI" URL="../Measurements/LTE Configure ModAcc.vi"/>
+		<Item Name="LTE Fetch ACP.vi" Type="VI" URL="../Measurements/LTE Fetch ACP.vi"/>
+		<Item Name="LTE Fetch ModAcc.vi" Type="VI" URL="../Measurements/LTE Fetch ModAcc.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -27,6 +27,6 @@
 		<Item Name="LTE ACP Component Carrier Results.ctl" Type="VI" URL="../Typedefs/LTE ACP Component Carrier Results.ctl"/>
 		<Item Name="LTE ACP Results.ctl" Type="VI" URL="../Typedefs/LTE ACP Results.ctl"/>
 	</Item>
-	<Item Name="LTE Common Configure.vi" Type="VI" URL="../LTE Common Configure.vi"/>
-	<Item Name="LTE Signal Configure.vi" Type="VI" URL="../LTE Signal Configure.vi"/>
+	<Item Name="LTE Configure Common.vi" Type="VI" URL="../LTE Configure Common.vi"/>
+	<Item Name="LTE Configure Signal.vi" Type="VI" URL="../LTE Configure Signal.vi"/>
 </Library>
