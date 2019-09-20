@@ -11,7 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Source 2016" Type="Folder" URL="..">
+		<Item Name="Source" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -21,41 +21,50 @@
 				<Item Name="niDCPower Commit.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Commit.vi"/>
 				<Item Name="niDCPower Configure Current Level.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Current Level.vi"/>
 				<Item Name="niDCPower Configure Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Current Limit.vi"/>
+				<Item Name="niDCPower Configure Digital Edge Measure Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Digital Edge Measure Trigger.vi"/>
+				<Item Name="niDCPower Configure Digital Edge Pulse Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Digital Edge Pulse Trigger.vi"/>
+				<Item Name="niDCPower Configure Digital Edge Sequence Advance Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Digital Edge Sequence Advance Trigger.vi"/>
+				<Item Name="niDCPower Configure Digital Edge Source Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Digital Edge Source Trigger.vi"/>
+				<Item Name="niDCPower Configure Digital Edge Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Digital Edge Start Trigger.vi"/>
 				<Item Name="niDCPower Configure Output Enabled.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Output Enabled.vi"/>
 				<Item Name="niDCPower Configure Output Function.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Output Function.vi"/>
+				<Item Name="niDCPower Configure Sense.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Sense.vi"/>
+				<Item Name="niDCPower Configure Software Edge Measure Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Software Edge Measure Trigger.vi"/>
+				<Item Name="niDCPower Configure Software Edge Pulse Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Software Edge Pulse Trigger.vi"/>
+				<Item Name="niDCPower Configure Software Edge Sequence Advance Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Software Edge Sequence Advance Trigger.vi"/>
+				<Item Name="niDCPower Configure Software Edge Source Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Software Edge Source Trigger.vi"/>
+				<Item Name="niDCPower Configure Software Edge Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Configure Software Edge Start Trigger.vi"/>
 				<Item Name="niDCPower Configure Source Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Source Mode.vi"/>
+				<Item Name="niDCPower Configure Trigger (Poly).vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Trigger (Poly).vi"/>
 				<Item Name="niDCPower Configure Voltage Level.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Voltage Level.vi"/>
 				<Item Name="niDCPower Configure Voltage Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Voltage Limit.vi"/>
 				<Item Name="niDCPower Current Limit Behavior.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Current Limit Behavior.ctl"/>
+				<Item Name="niDCPower Digital Edge - Edge.ctl" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Digital Edge - Edge.ctl"/>
+				<Item Name="niDCPower Disable Pulse Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Disable Pulse Trigger.vi"/>
+				<Item Name="niDCPower Disable Sequence Advance Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Disable Sequence Advance Trigger.vi"/>
+				<Item Name="niDCPower Disable Source Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Disable Source Trigger.vi"/>
+				<Item Name="niDCPower Disable Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/nidcpower/nidcpower.llb/niDCPower Disable Start Trigger.vi"/>
 				<Item Name="niDCPower Fetch Multiple.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Fetch Multiple.vi"/>
 				<Item Name="niDCPower Initiate.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Initiate.vi"/>
 				<Item Name="niDCPower IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower IVI Error Converter.vi"/>
+				<Item Name="niDCPower Measure Multiple.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Measure Multiple.vi"/>
 				<Item Name="niDCPower Output Function.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Output Function.ctl"/>
 				<Item Name="niDCPower Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Reset.vi"/>
-				<Item Name="niDCPower Send Software Edge Trigger - Signal.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Send Software Edge Trigger - Signal.ctl"/>
-				<Item Name="niDCPower Send Software Edge Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Send Software Edge Trigger.vi"/>
+				<Item Name="niDCPower Sense.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Sense.ctl"/>
 				<Item Name="niDCPower Source Mode.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Source Mode.ctl"/>
 				<Item Name="niDCPower Wait For Event - Event.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Wait For Event - Event.ctl"/>
 				<Item Name="niDCPower Wait For Event.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Wait For Event.vi"/>
 				<Item Name="niDigital Apply Levels and Timing.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Apply Levels and Timing.vi"/>
 				<Item Name="niDigital Burst Pattern (Burst Only).vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Burst Pattern (Burst Only).vi"/>
-				<Item Name="niDigital Burst Pattern (Pass Fail).vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Burst Pattern (Pass Fail).vi"/>
 				<Item Name="niDigital Burst Pattern.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Burst Pattern.vi"/>
 				<Item Name="niDigital Close.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Close.vi"/>
-				<Item Name="niDigital Configure Cycle Number History RAM Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Configure Cycle Number History RAM Trigger.vi"/>
 				<Item Name="niDigital Configure Digital Edge Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Configure Digital Edge Start Trigger.vi"/>
-				<Item Name="niDigital Configure First Failure History RAM Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Configure First Failure History RAM Trigger.vi"/>
-				<Item Name="niDigital Configure Pattern Label History RAM Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Configure Pattern Label History RAM Trigger.vi"/>
 				<Item Name="niDigital Configure Software Edge Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Configure Software Edge Start Trigger.vi"/>
 				<Item Name="niDigital Configure Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Configure Trigger.vi"/>
 				<Item Name="niDigital Disable Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Disable Start Trigger.vi"/>
-				<Item Name="niDigital Get Session Reference.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Get Session Reference.vi"/>
-				<Item Name="niDigital Get Site Pass Fail.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Get Site Pass Fail.vi"/>
-				<Item Name="niDigital IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital IVI Error Converter.vi"/>
 				<Item Name="niDigital Load Pattern.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Load Pattern.vi"/>
 				<Item Name="niDigital Load Pin Map.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Load Pin Map.vi"/>
 				<Item Name="niDigital Load Specifications Levels and Timing (Multiple).vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Load Specifications Levels and Timing (Multiple).vi"/>
-				<Item Name="niDigital Load Specifications Levels and Timing (Single).vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Load Specifications Levels and Timing (Single).vi"/>
 				<Item Name="niDigital Load Specifications Levels and Timing.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Load Specifications Levels and Timing.vi"/>
 				<Item Name="niDigital Output Function.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital Output Function.ctl"/>
 				<Item Name="niDigital PPMU Configure Current Level.vi" Type="VI" URL="/&lt;instrlib&gt;/niDigital/niDigital.llb/niDigital PPMU Configure Current Level.vi"/>
@@ -112,6 +121,7 @@
 				<Item Name="niRFSGPlayback Read Burst Stop Locations From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Burst Stop Locations From File.vi"/>
 				<Item Name="niRFSGPlayback Read PAPR From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read PAPR From File.vi"/>
 				<Item Name="niRFSGPlayback Read Peak Power Adjustment From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Peak Power Adjustment From File.vi"/>
+				<Item Name="niRFSGPlayback Read Runtime Scaling From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Runtime Scaling From File.vi"/>
 				<Item Name="niRFSGPlayback Read Sample Rate From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Sample Rate From File.vi"/>
 				<Item Name="niRFSGPlayback Read Signal Bandwidth From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Signal Bandwidth From File.vi"/>
 				<Item Name="niRFSGPlayback Read Waveform File Version From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform File Version From File.vi"/>
@@ -122,9 +132,11 @@
 				<Item Name="niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CDB).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CDB).vi"/>
 				<Item Name="niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CSG).vi"/>
 				<Item Name="niRFSGPlayback Read Waveform From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File.vi"/>
+				<Item Name="niRFSGPlayback Read Waveform Size From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform Size From File.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform Burst Start Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Burst Start Locations.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform Burst Stop Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Burst Stop Locations.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform PAPR.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform PAPR.vi"/>
+				<Item Name="niRFSGPlayback Retrieve Waveform Runtime Scaling.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Runtime Scaling.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform Sample Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Sample Rate.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform Signal Bandwidth.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Signal Bandwidth.vi"/>
 				<Item Name="niRFSGPlayback Set Script to Generate (1 RFSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Set Script to Generate (1 RFSG).vi"/>
@@ -149,7 +161,6 @@
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
-				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="niRFmx Instrument Handle.ctl" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/Support/RFmxInstrSupport.llb/niRFmx Instrument Handle.ctl"/>
@@ -266,6 +277,42 @@
 				<Item Name="RFmxLTE ModAcc Fetch Synchronization Signal EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Synchronization Signal EVM (Array).vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch Synchronization Signal EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Synchronization Signal EVM.vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch.vi"/>
+				<Item Name="RFmxNR ACP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Averaging.vi"/>
+				<Item Name="RFmxNR ACP Configure Measurement Method.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Measurement Method.vi"/>
+				<Item Name="RFmxNR ACP Configure Noise Compensation Enabled.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Noise Compensation Enabled.vi"/>
+				<Item Name="RFmxNR ACP Configure Number of ENDC Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Number of ENDC Offsets.vi"/>
+				<Item Name="RFmxNR ACP Configure Number of EUTRA Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Number of EUTRA Offsets.vi"/>
+				<Item Name="RFmxNR ACP Configure Number of NR Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Number of NR Offsets.vi"/>
+				<Item Name="RFmxNR ACP Configure Number of UTRA Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Number of UTRA Offsets.vi"/>
+				<Item Name="RFmxNR ACP Configure Sweep Time.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Sweep Time.vi"/>
+				<Item Name="RFmxNR ACP Fetch Absolute Powers Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Absolute Powers Trace.vi"/>
+				<Item Name="RFmxNR ACP Fetch Component Carrier Measurement (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Component Carrier Measurement (Array).vi"/>
+				<Item Name="RFmxNR ACP Fetch Component Carrier Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Component Carrier Measurement.vi"/>
+				<Item Name="RFmxNR ACP Fetch Offset Measurement (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Offset Measurement (Array).vi"/>
+				<Item Name="RFmxNR ACP Fetch Offset Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Offset Measurement.vi"/>
+				<Item Name="RFmxNR ACP Fetch Relative Powers Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Relative Powers Trace.vi"/>
+				<Item Name="RFmxNR ACP Fetch Spectrum.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Spectrum.vi"/>
+				<Item Name="RFmxNR ACP Fetch Subblock Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Subblock Power.vi"/>
+				<Item Name="RFmxNR ACP Fetch Total Aggregated Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch Total Aggregated Power.vi"/>
+				<Item Name="RFmxNR ACP Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch.vi"/>
+				<Item Name="RFmxNR Auto Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Auto Level.vi"/>
+				<Item Name="RFmxNR Build Carrier String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Build Carrier String.vi"/>
+				<Item Name="RFmxNR CHP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Configure Averaging.vi"/>
+				<Item Name="RFmxNR CHP Configure Sweep Time.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Configure Sweep Time.vi"/>
+				<Item Name="RFmxNR CHP Fetch Component Carrier Measurement (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch Component Carrier Measurement (Array).vi"/>
+				<Item Name="RFmxNR CHP Fetch Component Carrier Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch Component Carrier Measurement.vi"/>
+				<Item Name="RFmxNR CHP Fetch Spectrum.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch Spectrum.vi"/>
+				<Item Name="RFmxNR CHP Fetch Subblock Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch Subblock Power.vi"/>
+				<Item Name="RFmxNR CHP Fetch Total Aggregated Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch Total Aggregated Power.vi"/>
+				<Item Name="RFmxNR CHP Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch.vi"/>
+				<Item Name="RFmxNR Configure Digital Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Digital Edge Trigger.vi"/>
+				<Item Name="RFmxNR Configure External Attenuation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure External Attenuation.vi"/>
+				<Item Name="RFmxNR Configure Frequency (Frequency).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Frequency (Frequency).vi"/>
+				<Item Name="RFmxNR Configure IQ Power Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure IQ Power Edge Trigger.vi"/>
+				<Item Name="RFmxNR Configure Reference Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Reference Level.vi"/>
+				<Item Name="RFmxNR Configure Software Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Software Edge Trigger.vi"/>
+				<Item Name="RFmxNR Configure Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Trigger.vi"/>
+				<Item Name="RFmxNR Disable Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Disable Trigger.vi"/>
 				<Item Name="RFmxSpecAn AMPM Configure DUT Average Input Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn AMPM Configure DUT Average Input Power.vi"/>
 				<Item Name="RFmxSpecAn AMPM Configure Measurement Interval.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn AMPM Configure Measurement Interval.vi"/>
 				<Item Name="RFmxSpecAn AMPM Configure Reference Waveform.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn AMPM Configure Reference Waveform.vi"/>
@@ -420,12 +467,6 @@
 			<Item Name="nidcpower_64.dll" Type="Document" URL="nidcpower_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="niDigital_64.dll" Type="Document" URL="niDigital_64.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="niDigitalLV_64.dll" Type="Document" URL="niDigitalLV_64.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="niRFmxAttribEng.dll" Type="Document" URL="niRFmxAttribEng.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -433,6 +474,9 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="niRFmxLTE.dll" Type="Document" URL="niRFmxLTE.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="niRFmxNR.dll" Type="Document" URL="niRFmxNR.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="niRFmxSpecAn.dll" Type="Document" URL="niRFmxSpecAn.dll">
