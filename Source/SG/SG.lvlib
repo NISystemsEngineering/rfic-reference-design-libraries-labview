@@ -9,6 +9,7 @@
 
 </Property>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="LO Configruation.ctl" Type="VI" URL="../Typedefs/LO Configruation.ctl"/>
 		<Item Name="Instrument Configuration.ctl" Type="VI" URL="../Typedefs/Instrument Configuration.ctl"/>
 		<Item Name="Pre DPD CFR Configuration.ctl" Type="VI" URL="../Typedefs/Pre DPD CFR Configuration.ctl"/>
 		<Item Name="Waveform.ctl" Type="VI" URL="../Typedefs/Waveform.ctl"/>
