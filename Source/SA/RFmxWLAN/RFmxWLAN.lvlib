@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="Measurements" Type="Folder">
 		<Item Name="WLAN Configure OFDM ModAcc.vi" Type="VI" URL="../Measurements/WLAN Configure OFDM ModAcc.vi"/>
+		<Item Name="WLAN Configure SEM.vi" Type="VI" URL="../Measurements/WLAN Configure SEM.vi"/>
 		<Item Name="WLAN Configure TxP.vi" Type="VI" URL="../Measurements/WLAN Configure TxP.vi"/>
 		<Item Name="WLAN Fetch OFDM ModAcc.vi" Type="VI" URL="../Measurements/WLAN Fetch OFDM ModAcc.vi"/>
 		<Item Name="WLAN Fetch TxP.vi" Type="VI" URL="../Measurements/WLAN Fetch TxP.vi"/>
@@ -18,6 +19,8 @@
 		<Item Name="WLAN Common Configuration.ctl" Type="VI" URL="../Typedefs/WLAN Common Configuration.ctl"/>
 		<Item Name="WLAN OFDM ModAcc Configuration.ctl" Type="VI" URL="../Typedefs/WLAN OFDM ModAcc Configuration.ctl"/>
 		<Item Name="WLAN OFDM ModAcc Results.ctl" Type="VI" URL="../Typedefs/WLAN OFDM ModAcc Results.ctl"/>
+		<Item Name="WLAN SEM Configuration.ctl" Type="VI" URL="../Typedefs/WLAN SEM Configuration.ctl"/>
+		<Item Name="WLAN SEM Results.ctl" Type="VI" URL="../Typedefs/WLAN SEM Results.ctl"/>
 		<Item Name="WLAN Signal Configuration.ctl" Type="VI" URL="../Typedefs/WLAN Signal Configuration.ctl"/>
 		<Item Name="WLAN TxP Configuration.ctl" Type="VI" URL="../Typedefs/WLAN TxP Configuration.ctl"/>
 		<Item Name="WLAN TxP Results.ctl" Type="VI" URL="../Typedefs/WLAN TxP Results.ctl"/>
@@ -26,4 +29,5 @@
 	</Item>
 	<Item Name="WLAN Configure Common.vi" Type="VI" URL="../WLAN Configure Common.vi"/>
 	<Item Name="WLAN Configure Signal.vi" Type="VI" URL="../WLAN Configure Signal.vi"/>
+	<Item Name="WLAN Fetch SEM.vi" Type="VI" URL="../Measurements/WLAN Fetch SEM.vi"/>
 </Library>
