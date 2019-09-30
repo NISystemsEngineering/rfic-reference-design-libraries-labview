@@ -12,6 +12,7 @@
 		<Item Name="WLAN Configure SEM.vi" Type="VI" URL="../Measurements/WLAN Configure SEM.vi"/>
 		<Item Name="WLAN Configure TxP.vi" Type="VI" URL="../Measurements/WLAN Configure TxP.vi"/>
 		<Item Name="WLAN Fetch OFDM ModAcc.vi" Type="VI" URL="../Measurements/WLAN Fetch OFDM ModAcc.vi"/>
+		<Item Name="WLAN Fetch SEM.vi" Type="VI" URL="../Measurements/WLAN Fetch SEM.vi"/>
 		<Item Name="WLAN Fetch TxP.vi" Type="VI" URL="../Measurements/WLAN Fetch TxP.vi"/>
 		<Item Name="WLAN TxP Servo Power.vi" Type="VI" URL="../Measurements/WLAN TxP Servo Power.vi"/>
 	</Item>
@@ -29,5 +30,4 @@
 	</Item>
 	<Item Name="WLAN Configure Common.vi" Type="VI" URL="../WLAN Configure Common.vi"/>
 	<Item Name="WLAN Configure Signal.vi" Type="VI" URL="../WLAN Configure Signal.vi"/>
-	<Item Name="WLAN Fetch SEM.vi" Type="VI" URL="../Measurements/WLAN Fetch SEM.vi"/>
 </Library>
