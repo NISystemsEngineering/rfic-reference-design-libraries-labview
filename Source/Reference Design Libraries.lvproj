@@ -369,6 +369,7 @@
 				<Item Name="RFmxSpecAn DPD Configure Memory Polynomial.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure Memory Polynomial.vi"/>
 				<Item Name="RFmxSpecAn DPD Configure Previous DPD Polynomial.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure Previous DPD Polynomial.vi"/>
 				<Item Name="RFmxSpecAn DPD Configure Reference Waveform.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure Reference Waveform.vi"/>
+				<Item Name="RFmxSpecAn DPD Configure Synchronization Method.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure Synchronization Method.vi"/>
 				<Item Name="RFmxSpecAn DPD Fetch Average Gain.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Fetch Average Gain.vi"/>
 				<Item Name="RFmxSpecAn DPD Fetch DPD Polynomial.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Fetch DPD Polynomial.vi"/>
 				<Item Name="RFmxSpecAn DPD Fetch Lookup Table.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Fetch Lookup Table.vi"/>
@@ -470,6 +471,22 @@
 				<Item Name="RFmxWLAN Select Measurement (Multiple).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Select Measurement (Multiple).vi"/>
 				<Item Name="RFmxWLAN Select Measurement (Single).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Select Measurement (Single).vi"/>
 				<Item Name="RFmxWLAN Select Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Select Measurement.vi"/>
+				<Item Name="RFmxWLAN SEM Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Configure Averaging.vi"/>
+				<Item Name="RFmxWLAN SEM Configure Mask Type.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Configure Mask Type.vi"/>
+				<Item Name="RFmxWLAN SEM Configure Span.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Configure Span.vi"/>
+				<Item Name="RFmxWLAN SEM Configure Sweep Time.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Configure Sweep Time.vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Carrier Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Carrier Measurement.vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Lower Offset Margin (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Lower Offset Margin (Array).vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Lower Offset Margin.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Lower Offset Margin.vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Lower Offset Power (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Lower Offset Power (Array).vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Lower Offset Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Lower Offset Power.vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Measurement Status.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Measurement Status.vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Spectrum.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Spectrum.vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Upper Offset Margin (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Upper Offset Margin (Array).vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Upper Offset Margin.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Upper Offset Margin.vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Upper Offset Power (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Upper Offset Power (Array).vi"/>
+				<Item Name="RFmxWLAN SEM Fetch Upper Offset Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Upper Offset Power.vi"/>
+				<Item Name="RFmxWLAN SEM Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch.vi"/>
 				<Item Name="RFmxWLAN TXP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Configure Averaging.vi"/>
 				<Item Name="RFmxWLAN TXP Configure Maximum Measurement Interval.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Configure Maximum Measurement Interval.vi"/>
 				<Item Name="RFmxWLAN TXP Fetch Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Fetch Measurement.vi"/>
