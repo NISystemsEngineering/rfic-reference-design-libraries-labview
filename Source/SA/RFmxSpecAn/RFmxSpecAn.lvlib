@@ -9,25 +9,25 @@
 
 </Property>
 	<Item Name="Measurements" Type="Folder">
-		<Item Name="AMPM Configure.vi" Type="VI" URL="../Measurements/AMPM Configure.vi"/>
-		<Item Name="AMPM Fetch.vi" Type="VI" URL="../Measurements/AMPM Fetch.vi"/>
-		<Item Name="TxP Configure.vi" Type="VI" URL="../Measurements/TxP Configure.vi"/>
-		<Item Name="TxP Fetch.vi" Type="VI" URL="../Measurements/TxP Fetch.vi"/>
-		<Item Name="ACP Configure.vi" Type="VI" URL="../Measurements/ACP Configure.vi"/>
-		<Item Name="ACP Fetch.vi" Type="VI" URL="../Measurements/ACP Fetch.vi"/>
+		<Item Name="SpecAn AMPM Configure.vi" Type="VI" URL="../Measurements/SpecAn AMPM Configure.vi"/>
+		<Item Name="SpecAn AMPM Fetch.vi" Type="VI" URL="../Measurements/SpecAn AMPM Fetch.vi"/>
+		<Item Name="SpecAn TxP Configure.vi" Type="VI" URL="../Measurements/SpecAn TxP Configure.vi"/>
+		<Item Name="SpecAn TxP Fetch.vi" Type="VI" URL="../Measurements/SpecAn TxP Fetch.vi"/>
+		<Item Name="SpecAn ACP Configure.vi" Type="VI" URL="../Measurements/SpecAn ACP Configure.vi"/>
+		<Item Name="SpecAn ACP Fetch.vi" Type="VI" URL="../Measurements/SpecAn ACP Fetch.vi"/>
 	</Item>
 	<Item Name="Typdefs" Type="Folder">
 		<Item Name="SpecAn Common Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn Common Configuration.ctl"/>
-		<Item Name="TxP Configuration.ctl" Type="VI" URL="../Typedefs/TxP Configuration.ctl"/>
-		<Item Name="ACP Carrier Channel Configuration.ctl" Type="VI" URL="../Typedefs/ACP Carrier Channel Configuration.ctl"/>
-		<Item Name="ACP Offset Channel Configuration.ctl" Type="VI" URL="../Typedefs/ACP Offset Channel Configuration.ctl"/>
-		<Item Name="ACP Common Configuration.ctl" Type="VI" URL="../Typedefs/ACP Common Configuration.ctl"/>
-		<Item Name="AMPM Configuration.ctl" Type="VI" URL="../Typedefs/AMPM Configuration.ctl"/>
-		<Item Name="TxP Results.ctl" Type="VI" URL="../Typedefs/TxP Results.ctl"/>
-		<Item Name="ACP Offset Results.ctl" Type="VI" URL="../Typedefs/ACP Offset Results.ctl"/>
-		<Item Name="ACP Component Carrier Results.ctl" Type="VI" URL="../Typedefs/ACP Component Carrier Results.ctl"/>
-		<Item Name="ACP Results.ctl" Type="VI" URL="../Typedefs/ACP Results.ctl"/>
-		<Item Name="AMPM Results.ctl" Type="VI" URL="../Typedefs/AMPM Results.ctl"/>
+		<Item Name="SpecAn TxP Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn TxP Configuration.ctl"/>
+		<Item Name="SpecAn ACP Carrier Channel Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Carrier Channel Configuration.ctl"/>
+		<Item Name="SpecAn ACP Offset Channel Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Offset Channel Configuration.ctl"/>
+		<Item Name="SpecAn ACP Common Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Common Configuration.ctl"/>
+		<Item Name="SpecAn AMPM Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn AMPM Configuration.ctl"/>
+		<Item Name="SpecAn TxP Results.ctl" Type="VI" URL="../Typedefs/SpecAn TxP Results.ctl"/>
+		<Item Name="SpecAn ACP Offset Results.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Offset Results.ctl"/>
+		<Item Name="SpecAn ACP Component Carrier Results.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Component Carrier Results.ctl"/>
+		<Item Name="SpecAn ACP Results.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Results.ctl"/>
+		<Item Name="SpecAn AMPM Results.ctl" Type="VI" URL="../Typedefs/SpecAn AMPM Results.ctl"/>
 	</Item>
 	<Item Name="SpecAn Common Configure.vi" Type="VI" URL="../SpecAn Common Configure.vi"/>
 </Library>

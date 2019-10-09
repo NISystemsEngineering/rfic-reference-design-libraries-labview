@@ -109,7 +109,12 @@
 				<Item Name="niRFSGPlayback Read Sample Rate From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Sample Rate From File.vi"/>
 				<Item Name="niRFSGPlayback Read Signal Bandwidth From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Signal Bandwidth From File.vi"/>
 				<Item Name="niRFSGPlayback Read Waveform File Version From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform File Version From File.vi"/>
+				<Item Name="niRFSGPlayback Read Waveform From File (1 Wfm,TDMS, CDB) Wrapper.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/Support/niRFSGPlayback Read Waveform From File (1 Wfm,TDMS, CDB) Wrapper.vi"/>
+				<Item Name="niRFSGPlayback Read Waveform From File (1 Wfm,TDMS, CDB).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File (1 Wfm,TDMS, CDB).vi"/>
+				<Item Name="niRFSGPlayback Read Waveform From File (1 Wfm,TDMS, CSG) Wrapper.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/Support/niRFSGPlayback Read Waveform From File (1 Wfm,TDMS, CSG) Wrapper.vi"/>
 				<Item Name="niRFSGPlayback Read Waveform From File (1 Wfm,TDMS, CSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File (1 Wfm,TDMS, CSG).vi"/>
+				<Item Name="niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CDB).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CDB).vi"/>
+				<Item Name="niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CSG).vi"/>
 				<Item Name="niRFSGPlayback Read Waveform From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File.vi"/>
 				<Item Name="niRFSGPlayback Read Waveform Size From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform Size From File.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform Burst Start Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Burst Start Locations.vi"/>
@@ -119,6 +124,7 @@
 				<Item Name="niRFSGPlayback Retrieve Waveform Sample Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Sample Rate.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform Signal Bandwidth.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Signal Bandwidth.vi"/>
 				<Item Name="niRFSGPlayback Set Script to Generate (1 RFSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Set Script to Generate (1 RFSG).vi"/>
+				<Item Name="niRFSGPlayback Set Script to Generate (N RFSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Set Script to Generate (N RFSG).vi"/>
 				<Item Name="niRFSGPlayback Set Script to Generate.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Set Script to Generate.vi"/>
 				<Item Name="niRFSGPlayback Store Waveform Burst Start Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Waveform Burst Start Locations.vi"/>
 				<Item Name="niRFSGPlayback Store Waveform Burst Stop Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Waveform Burst Stop Locations.vi"/>
@@ -128,6 +134,7 @@
 				<Item Name="niRFSGPlayback Store Waveform Runtime Scaling.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Waveform Runtime Scaling.vi"/>
 				<Item Name="niRFSGPlayback Store Waveform Sample Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Waveform Sample Rate.vi"/>
 				<Item Name="niRFSGPlayback Store Waveform Signal Bandwidth.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Waveform Signal Bandwidth.vi"/>
+				<Item Name="niRFSGPlayback Update Dynamic Error Description.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/Support/niRFSGPlayback Update Dynamic Error Description.vi"/>
 				<Item Name="rfsg_Validate I-Q Arrays.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/rfsg_Validate I-Q Arrays.vi"/>
 				<Item Name="rfsg_Validate I16 Array.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSG/niRFSG.llb/rfsg_Validate I16 Array.vi"/>
 			</Item>
@@ -484,6 +491,9 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="niRFSG_64.dll" Type="Document" URL="niRFSG_64.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="niRFSGPlayback.dll" Type="Document" URL="niRFSGPlayback.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
