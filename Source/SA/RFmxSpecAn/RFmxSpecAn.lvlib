@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="16008000">
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*7!!!*Q(C=\&gt;7^&lt;2N"%)&lt;B4Y)#2A&lt;9A5(!A0/"/W!,L-$'N%#&amp;#GS!O1.B!A=+G""1!1*&lt;',A$NM!74O]OBT^+2!/S9!?]UUL(&lt;X&gt;H(^YN4F)`2N+.BH0(\;P(H`3X)M0_9D?D8\3@VN8(^1`\CZKW[\^^-@6U^$$5_M=C_[K\OD8E-/WES,(`T&gt;`P^@YTBS\(Z@CXR^X:4@LO?`:+\56%3VL1H':K3QV*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O4^*"?ZS%5/+6E]73AJGB2)"E.2]CPR**\%EXDYK-34?"*0YEE]$&amp;(C34S**`%E(K9J]33?R*.Y%A_FOC4\39YH]6"?A3@Q"*\!%XB95I%H!!3,"97$)D!5&gt;!98A3@Q""YO&amp;8A#4_!*0)'(&lt;A7?Q".Y!E`A95K`+^%V\34(1REZ(M@D?"S0Y['U()`D=4S/R`'QH"S0YX%1TI*/=1BS*DE$H!_/R`(Q2Y\(]4A?R_.Y[/J0S0O&gt;;:JWEO-R0)&lt;(]"A?QU-*'2\$9XA-D_'BL!S0Y4%]BM@QM*1-D_%R0!&lt;%7*4F:21T*BK$D-$Q]..XC`7H&amp;&amp;VC`:2K][IWJ7KTK4;2;H/I(LLK9;I?EOLGKW[K[G;J&lt;I,KS[H1+IRK%&gt;8E.F"&lt;@G^I;^K+NK$.;40;F$;BD&gt;P5PTRQO^VKM^FIP6ZLN6JJM6BI0J^L.JNJ/JVK-JFI0"Y@8A-@/1]PB.V\[9\LVH\^`PLJY@00,Z(@(X_-\J&gt;0(\YN^XWNP&gt;0`UP`AX;BLH&gt;&lt;F(DU$*VX&lt;(Q!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -8,37 +9,25 @@
 
 </Property>
 	<Item Name="Measurements" Type="Folder">
-		<Item Name="Spectrum Configure.vi" Type="VI" URL="../Measurements/Spectrum Configure.vi"/>
-		<Item Name="Spectrum Measure.vi" Type="VI" URL="../Measurements/Spectrum Measure.vi"/>
 		<Item Name="AMPM Configure.vi" Type="VI" URL="../Measurements/AMPM Configure.vi"/>
-		<Item Name="AMPM Measure.vi" Type="VI" URL="../Measurements/AMPM Measure.vi"/>
-		<Item Name="DPD Configure.vi" Type="VI" URL="../Measurements/DPD Configure.vi"/>
-		<Item Name="DPD Measure.vi" Type="VI" URL="../Measurements/DPD Measure.vi"/>
-		<Item Name="DPD Apply.vi" Type="VI" URL="../Measurements/DPD Apply.vi"/>
-		<Item Name="CHP Configure.vi" Type="VI" URL="../Measurements/CHP Configure.vi"/>
-		<Item Name="CHP Measure.vi" Type="VI" URL="../Measurements/CHP Measure.vi"/>
-		<Item Name="CHP Harm Config.vi" Type="VI" URL="../Measurements/CHP Harm Config.vi"/>
-		<Item Name="CHP Servo SG Power.vi" Type="VI" URL="../Measurements/CHP Servo SG Power.vi"/>
+		<Item Name="AMPM Fetch.vi" Type="VI" URL="../Measurements/AMPM Fetch.vi"/>
 		<Item Name="TxP Configure.vi" Type="VI" URL="../Measurements/TxP Configure.vi"/>
-		<Item Name="TxP Measure.vi" Type="VI" URL="../Measurements/TxP Measure.vi"/>
+		<Item Name="TxP Fetch.vi" Type="VI" URL="../Measurements/TxP Fetch.vi"/>
+		<Item Name="ACP Configure.vi" Type="VI" URL="../Measurements/ACP Configure.vi"/>
+		<Item Name="ACP Fetch.vi" Type="VI" URL="../Measurements/ACP Fetch.vi"/>
 	</Item>
 	<Item Name="Typdefs" Type="Folder">
-		<Item Name="Spectrum Configuration.ctl" Type="VI" URL="../Typedefs/Spectrum Configuration.ctl"/>
-		<Item Name="Spectrum Results.ctl" Type="VI" URL="../Typedefs/Spectrum Results.ctl"/>
 		<Item Name="SpecAn Common Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn Common Configuration.ctl"/>
-		<Item Name="AMPM Configuration.ctl" Type="VI" URL="../Typedefs/AMPM Configuration.ctl"/>
-		<Item Name="AMPM Results.ctl" Type="VI" URL="../Typedefs/AMPM Results.ctl"/>
-		<Item Name="DPD Configuration.ctl" Type="VI" URL="../Typedefs/DPD Configuration.ctl"/>
-		<Item Name="DPD Apply DPD CFR Configuration.ctl" Type="VI" URL="../Typedefs/DPD Apply DPD CFR Configuration.ctl"/>
-		<Item Name="DPD Results.ctl" Type="VI" URL="../Typedefs/DPD Results.ctl"/>
-		<Item Name="CHP Configuration.ctl" Type="VI" URL="../Typedefs/CHP Configuration.ctl"/>
-		<Item Name="CHP Results.ctl" Type="VI" URL="../Typedefs/CHP Results.ctl"/>
-		<Item Name="Harmonics Config.ctl" Type="VI" URL="../Typedefs/Harmonics Config.ctl"/>
-		<Item Name="CHP Power Servo Settings.ctl" Type="VI" URL="../Typedefs/CHP Power Servo Settings.ctl"/>
-		<Item Name="AutoLevel Settings.ctl" Type="VI" URL="../Typedefs/AutoLevel Settings.ctl"/>
-		<Item Name="CHP Servo Results.ctl" Type="VI" URL="../Typedefs/CHP Servo Results.ctl"/>
 		<Item Name="TxP Configuration.ctl" Type="VI" URL="../Typedefs/TxP Configuration.ctl"/>
+		<Item Name="ACP Carrier Channel Configuration.ctl" Type="VI" URL="../Typedefs/ACP Carrier Channel Configuration.ctl"/>
+		<Item Name="ACP Offset Channel Configuration.ctl" Type="VI" URL="../Typedefs/ACP Offset Channel Configuration.ctl"/>
+		<Item Name="ACP Common Configuration.ctl" Type="VI" URL="../Typedefs/ACP Common Configuration.ctl"/>
+		<Item Name="AMPM Configuration.ctl" Type="VI" URL="../Typedefs/AMPM Configuration.ctl"/>
 		<Item Name="TxP Results.ctl" Type="VI" URL="../Typedefs/TxP Results.ctl"/>
+		<Item Name="ACP Offset Results.ctl" Type="VI" URL="../Typedefs/ACP Offset Results.ctl"/>
+		<Item Name="ACP Component Carrier Results.ctl" Type="VI" URL="../Typedefs/ACP Component Carrier Results.ctl"/>
+		<Item Name="ACP Results.ctl" Type="VI" URL="../Typedefs/ACP Results.ctl"/>
+		<Item Name="AMPM Results.ctl" Type="VI" URL="../Typedefs/AMPM Results.ctl"/>
 	</Item>
 	<Item Name="SpecAn Common Configure.vi" Type="VI" URL="../SpecAn Common Configure.vi"/>
 </Library>
