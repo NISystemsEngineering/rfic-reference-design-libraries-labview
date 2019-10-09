@@ -9,12 +9,12 @@
 
 </Property>
 	<Item Name="Measurements" Type="Folder">
-		<Item Name="SpecAn AMPM Configure.vi" Type="VI" URL="../Measurements/SpecAn AMPM Configure.vi"/>
-		<Item Name="SpecAn AMPM Fetch.vi" Type="VI" URL="../Measurements/SpecAn AMPM Fetch.vi"/>
-		<Item Name="SpecAn TxP Configure.vi" Type="VI" URL="../Measurements/SpecAn TxP Configure.vi"/>
-		<Item Name="SpecAn TxP Fetch.vi" Type="VI" URL="../Measurements/SpecAn TxP Fetch.vi"/>
-		<Item Name="SpecAn ACP Configure.vi" Type="VI" URL="../Measurements/SpecAn ACP Configure.vi"/>
-		<Item Name="SpecAn ACP Fetch.vi" Type="VI" URL="../Measurements/SpecAn ACP Fetch.vi"/>
+		<Item Name="SpecAn Configure AMPM.vi" Type="VI" URL="../Measurements/SpecAn Configure AMPM.vi"/>
+		<Item Name="SpecAn Fetch AMPM.vi" Type="VI" URL="../Measurements/SpecAn Fetch AMPM.vi"/>
+		<Item Name="SpecAn Configure TxP.vi" Type="VI" URL="../Measurements/SpecAn Configure TxP.vi"/>
+		<Item Name="SpecAn Fetch TxP.vi" Type="VI" URL="../Measurements/SpecAn Fetch TxP.vi"/>
+		<Item Name="SpecAn Configure ACP.vi" Type="VI" URL="../Measurements/SpecAn Configure ACP.vi"/>
+		<Item Name="SpecAn Fetch ACP.vi" Type="VI" URL="../Measurements/SpecAn Fetch ACP.vi"/>
 	</Item>
 	<Item Name="Typdefs" Type="Folder">
 		<Item Name="SpecAn Common Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn Common Configuration.ctl"/>
@@ -29,5 +29,5 @@
 		<Item Name="SpecAn ACP Results.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Results.ctl"/>
 		<Item Name="SpecAn AMPM Results.ctl" Type="VI" URL="../Typedefs/SpecAn AMPM Results.ctl"/>
 	</Item>
-	<Item Name="SpecAn Common Configure.vi" Type="VI" URL="../SpecAn Common Configure.vi"/>
+	<Item Name="SpecAn Configure Common.vi" Type="VI" URL="../SpecAn Configure Common.vi"/>
 </Library>
