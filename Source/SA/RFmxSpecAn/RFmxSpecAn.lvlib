@@ -21,7 +21,7 @@
 		<Item Name="SpecAn TxP Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn TxP Configuration.ctl"/>
 		<Item Name="SpecAn ACP Carrier Channel Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Carrier Channel Configuration.ctl"/>
 		<Item Name="SpecAn ACP Offset Channel Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Offset Channel Configuration.ctl"/>
-		<Item Name="SpecAn ACP Common Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Common Configuration.ctl"/>
+		<Item Name="SpecAn ACP Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Configuration.ctl"/>
 		<Item Name="SpecAn AMPM Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn AMPM Configuration.ctl"/>
 		<Item Name="SpecAn TxP Results.ctl" Type="VI" URL="../Typedefs/SpecAn TxP Results.ctl"/>
 		<Item Name="SpecAn ACP Offset Results.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Offset Results.ctl"/>
