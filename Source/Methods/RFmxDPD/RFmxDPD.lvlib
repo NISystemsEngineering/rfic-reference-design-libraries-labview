@@ -8,6 +8,7 @@
 		<Item Name="Configure Lookup Table.vi" Type="VI" URL="../Measurements/Configure Lookup Table.vi"/>
 		<Item Name="Configure Memory Polynomial.vi" Type="VI" URL="../Measurements/Configure Memory Polynomial.vi"/>
 		<Item Name="Perform Lookup Table.vi" Type="VI" URL="../Measurements/Perform Lookup Table.vi"/>
+		<Item Name="Perform Memory Polynomial.vi" Type="VI" URL="../Measurements/Perform Memory Polynomial.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Common Configuration.ctl" Type="VI" URL="../Typedefs/Common Configuration.ctl"/>
