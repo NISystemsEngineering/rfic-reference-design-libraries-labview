@@ -369,14 +369,12 @@
 				<Item Name="RFmxWLAN Auto Detect Signal.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Auto Detect Signal.vi"/>
 				<Item Name="RFmxWLAN Auto Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Auto Level.vi"/>
 				<Item Name="RFmxWLAN Clone Signal Configuration.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Clone Signal Configuration.vi"/>
-				<Item Name="RFmxWLAN Configure Channel Bandwidth.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Channel Bandwidth.vi"/>
 				<Item Name="RFmxWLAN Configure Digital Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Digital Edge Trigger.vi"/>
 				<Item Name="RFmxWLAN Configure External Attenuation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure External Attenuation.vi"/>
 				<Item Name="RFmxWLAN Configure Frequency.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Frequency.vi"/>
 				<Item Name="RFmxWLAN Configure IQ Power Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure IQ Power Edge Trigger.vi"/>
 				<Item Name="RFmxWLAN Configure Reference Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Reference Level.vi"/>
 				<Item Name="RFmxWLAN Configure Software Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Software Edge Trigger.vi"/>
-				<Item Name="RFmxWLAN Configure Standard.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Standard.vi"/>
 				<Item Name="RFmxWLAN Configure Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Trigger.vi"/>
 				<Item Name="RFmxWLAN Delete Signal Configuration.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Delete Signal Configuration.vi"/>
 				<Item Name="RFmxWLAN Disable Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Disable Trigger.vi"/>
