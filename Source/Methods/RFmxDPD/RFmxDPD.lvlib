@@ -11,8 +11,8 @@
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Common Configuration.ctl" Type="VI" URL="../Typedefs/Common Configuration.ctl"/>
-		<Item Name="Lookup Table  Results.ctl" Type="VI" URL="../Typedefs/Lookup Table  Results.ctl"/>
 		<Item Name="Lookup Table Configuration.ctl" Type="VI" URL="../Typedefs/Lookup Table Configuration.ctl"/>
+		<Item Name="Lookup Table Results.ctl" Type="VI" URL="../Typedefs/Lookup Table Results.ctl"/>
 		<Item Name="Memory Polynomial Configuration.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Configuration.ctl"/>
 		<Item Name="Memory Polynomial Results.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Results.ctl"/>
 	</Item>
