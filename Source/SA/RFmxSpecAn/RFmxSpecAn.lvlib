@@ -19,7 +19,7 @@
 	<Item Name="Typdefs" Type="Folder">
 		<Item Name="SpecAn Common Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn Common Configuration.ctl"/>
 		<Item Name="SpecAn TxP Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn TxP Configuration.ctl"/>
-		<Item Name="SpecAn ACP Carrier Channel Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Carrier Channel Configuration.ctl"/>
+		<Item Name="SpecAn ACP Component Carrier Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Component Carrier Configuration.ctl"/>
 		<Item Name="SpecAn ACP Offset Channel Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Offset Channel Configuration.ctl"/>
 		<Item Name="SpecAn ACP Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Configuration.ctl"/>
 		<Item Name="SpecAn AMPM Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn AMPM Configuration.ctl"/>
