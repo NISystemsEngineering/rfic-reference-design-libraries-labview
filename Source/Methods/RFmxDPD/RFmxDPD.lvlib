@@ -11,6 +11,7 @@
 		<Item Name="Perform Memory Polynomial.vi" Type="VI" URL="../Measurements/Perform Memory Polynomial.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
+<<<<<<< HEAD
 		<Item Name="Apply DPD CFR.ctl" Type="VI" URL="../Typedefs/Apply DPD CFR.ctl"/>
 		<Item Name="Common Configuration.ctl" Type="VI" URL="../Typedefs/Common Configuration.ctl"/>
 		<Item Name="Lookup Table  Results.ctl" Type="VI" URL="../Typedefs/Lookup Table  Results.ctl"/>
@@ -20,4 +21,13 @@
 		<Item Name="Pre DPD CFR.ctl" Type="VI" URL="../Typedefs/Pre DPD CFR.ctl"/>
 	</Item>
 	<Item Name="Common Configuration.vi" Type="VI" URL="../Common Configuration.vi"/>
+=======
+		<Item Name="Common Configuration.ctl" Type="VI" URL="../Typedefs/Common Configuration.ctl"/>
+		<Item Name="Lookup Table Configuration.ctl" Type="VI" URL="../Typedefs/Lookup Table Configuration.ctl"/>
+		<Item Name="Lookup Table Results.ctl" Type="VI" URL="../Typedefs/Lookup Table Results.ctl"/>
+		<Item Name="Memory Polynomial Configuration.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Configuration.ctl"/>
+		<Item Name="Memory Polynomial Results.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Results.ctl"/>
+	</Item>
+	<Item Name="Configure Common.vi" Type="VI" URL="../Configure Common.vi"/>
+>>>>>>> master
 </Library>
