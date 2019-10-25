@@ -22,7 +22,6 @@
 		<Item Name="Apply Waveform Attributes.vi" Type="VI" URL="../Apply Waveform Attributes.vi"/>
 	</Item>
 	<Item Name="Waveforms" Type="Folder">
-		<Item Name="Apply CFR to Waveform.vi" Type="VI" URL="../Apply CFR to Waveform.vi"/>
 		<Item Name="Load Waveform From TDMS.vi" Type="VI" URL="../Load Waveform From TDMS.vi"/>
 		<Item Name="Download Waveform.vi" Type="VI" URL="../Download Waveform.vi"/>
 		<Item Name="Get Waveform Parameters By Name.vi" Type="VI" URL="../Get Waveform Parameters By Name.vi"/>
