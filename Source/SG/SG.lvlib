@@ -10,18 +10,18 @@
 </Property>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Instrument Configuration.ctl" Type="VI" URL="../Typedefs/Instrument Configuration.ctl"/>
-		<Item Name="Pre DPD CFR Configuration.ctl" Type="VI" URL="../Typedefs/Pre DPD CFR Configuration.ctl"/>
 		<Item Name="Waveform.ctl" Type="VI" URL="../Typedefs/Waveform.ctl"/>
 		<Item Name="Waveform Timing Configuration.ctl" Type="VI" URL="../Typedefs/Waveform Timing Configuration.ctl"/>
+		<Item Name="Pre DPD CFR Configuration.ctl" Type="VI" URL="../Typedefs/Pre DPD CFR Configuration.ctl"/>
 		<Item Name="PAEN Configuration.ctl" Type="VI" URL="../Typedefs/PAEN Configuration.ctl"/>
 	</Item>
 	<Item Name="Configuration" Type="Folder">
 		<Item Name="Configure Instrument.vi" Type="VI" URL="../Configure Instrument.vi"/>
-		<Item Name="Configure Bursted Generation.vi" Type="VI" URL="../Configure Bursted Generation.vi"/>
 		<Item Name="Configure Continuous Generation.vi" Type="VI" URL="../Configure Continuous Generation.vi"/>
+		<Item Name="Configure Bursted Generation.vi" Type="VI" URL="../Configure Bursted Generation.vi"/>
+		<Item Name="Apply Waveform Attributes.vi" Type="VI" URL="../Apply Waveform Attributes.vi"/>
 	</Item>
 	<Item Name="Waveforms" Type="Folder">
-		<Item Name="Apply CFR to Waveform.vi" Type="VI" URL="../Apply CFR to Waveform.vi"/>
 		<Item Name="Load Waveform From TDMS.vi" Type="VI" URL="../Load Waveform From TDMS.vi"/>
 		<Item Name="Download Waveform.vi" Type="VI" URL="../Download Waveform.vi"/>
 		<Item Name="Get Waveform Parameters By Name.vi" Type="VI" URL="../Get Waveform Parameters By Name.vi"/>
@@ -32,6 +32,6 @@
 		<Item Name="Generate Dynamic Script.vi" Type="VI" URL="../Generate Dynamic Script.vi"/>
 		<Item Name="Calculate Waveform Duration.vi" Type="VI" URL="../Calculate Waveform Duration.vi"/>
 	</Item>
-	<Item Name="Close Instrument.vi" Type="VI" URL="../Close Instrument.vi"/>
 	<Item Name="Abort Generation.vi" Type="VI" URL="../Abort Generation.vi"/>
+	<Item Name="Close Instrument.vi" Type="VI" URL="../Close Instrument.vi"/>
 </Library>
