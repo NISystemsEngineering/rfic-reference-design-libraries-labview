@@ -179,12 +179,9 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 				<Item Name="RFmxInstr Build Signal String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Build Signal String.vi"/>
-				<Item Name="RFmxInstr Close.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Close.vi"/>
 				<Item Name="RFmxInstr Configure Frequency Reference.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Configure Frequency Reference.vi"/>
 				<Item Name="RFmxInstr Error Converter.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/Support/RFmxInstrSupport.llb/RFmxInstr Error Converter.vi"/>
 				<Item Name="RFmxInstr Get Selector String Size.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/Support/RFmxInstrSupport.llb/RFmxInstr Get Selector String Size.vi"/>
-				<Item Name="RFmxInstr Initialize NIRFSA.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Initialize NIRFSA.vi"/>
-				<Item Name="RFmxInstr Initialize.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Initialize.vi"/>
 				<Item Name="RFmxLTE ACP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Averaging.vi"/>
 				<Item Name="RFmxLTE ACP Configure Number of EUTRA Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Number of EUTRA Offsets.vi"/>
 				<Item Name="RFmxLTE ACP Configure Number of GSM Offsets.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Number of GSM Offsets.vi"/>
@@ -368,7 +365,6 @@
 				<Item Name="RFmxSpecAn AMPM Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn AMPM Fetch.vi"/>
 				<Item Name="RFmxSpecAn Auto Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Auto Level.vi"/>
 				<Item Name="RFmxSpecAn Build Carrier String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Carrier String.vi"/>
-				<Item Name="RFmxSpecAn Build Carrier String2.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Carrier String2.vi"/>
 				<Item Name="RFmxSpecAn Build Offset String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Offset String.vi"/>
 				<Item Name="RFmxSpecAn Build Offset String2.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Offset String2.vi"/>
 				<Item Name="RFmxSpecAn Build Signal String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Signal String.vi"/>
@@ -379,7 +375,6 @@
 				<Item Name="RFmxSpecAn Configure Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Configure Trigger.vi"/>
 				<Item Name="RFmxSpecAn Disable Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Disable Trigger.vi"/>
 				<Item Name="RFmxSpecAn DPD Apply Digital Predistortion.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Apply Digital Predistortion.vi"/>
-				<Item Name="RFmxSpecAn DPD Apply Pre-DPD Signal Conditioning.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Apply Pre-DPD Signal Conditioning.vi"/>
 				<Item Name="RFmxSpecAn DPD Configure Apply DPD Lookup Table Correction Type.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure Apply DPD Lookup Table Correction Type.vi"/>
 				<Item Name="RFmxSpecAn DPD Configure Apply DPD Memory Models Correction Type.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure Apply DPD Memory Models Correction Type.vi"/>
 				<Item Name="RFmxSpecAn DPD Configure DPD Model.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure DPD Model.vi"/>
