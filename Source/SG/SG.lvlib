@@ -9,6 +9,7 @@
 
 </Property>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Get Default Instrument Configuration.vi" Type="VI" URL="../Typedefs/Get Default Instrument Configuration.vi"/>
 		<Item Name="Instrument Configuration.ctl" Type="VI" URL="../Typedefs/Instrument Configuration.ctl"/>
 		<Item Name="Waveform.ctl" Type="VI" URL="../Typedefs/Waveform.ctl"/>
 		<Item Name="Waveform Timing Configuration.ctl" Type="VI" URL="../Typedefs/Waveform Timing Configuration.ctl"/>
