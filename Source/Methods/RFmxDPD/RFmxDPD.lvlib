@@ -11,6 +11,7 @@
 		<Item Name="Memory Polynomial Configuration.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Configuration.ctl"/>
 		<Item Name="Lookup Table Results.ctl" Type="VI" URL="../Typedefs/Lookup Table Results.ctl"/>
 		<Item Name="Memory Polynomial Results.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Results.ctl"/>
+		<Item Name="Power Results.ctl" Type="VI" URL="../Typedefs/Power Results.ctl"/>
 	</Item>
 	<Item Name="Measurements" Type="Folder">
 		<Item Name="Configure Lookup Table.vi" Type="VI" URL="../Measurements/Configure Lookup Table.vi"/>
