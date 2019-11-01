@@ -4,18 +4,20 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Common Configuration.ctl" Type="VI" URL="../Typedefs/Common Configuration.ctl"/>
+		<Item Name="Lookup Table Configuration.ctl" Type="VI" URL="../Typedefs/Lookup Table Configuration.ctl"/>
+		<Item Name="Memory Polynomial Configuration.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Configuration.ctl"/>
+		<Item Name="Lookup Table Results.ctl" Type="VI" URL="../Typedefs/Lookup Table Results.ctl"/>
+		<Item Name="Memory Polynomial Results.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Results.ctl"/>
+		<Item Name="Power Results.ctl" Type="VI" URL="../Typedefs/Power Results.ctl"/>
+	</Item>
 	<Item Name="Measurements" Type="Folder">
 		<Item Name="Configure Lookup Table.vi" Type="VI" URL="../Measurements/Configure Lookup Table.vi"/>
 		<Item Name="Configure Memory Polynomial.vi" Type="VI" URL="../Measurements/Configure Memory Polynomial.vi"/>
 		<Item Name="Perform Lookup Table.vi" Type="VI" URL="../Measurements/Perform Lookup Table.vi"/>
 		<Item Name="Perform Memory Polynomial.vi" Type="VI" URL="../Measurements/Perform Memory Polynomial.vi"/>
-	</Item>
-	<Item Name="Typedefs" Type="Folder">
-		<Item Name="Common Configuration.ctl" Type="VI" URL="../Typedefs/Common Configuration.ctl"/>
-		<Item Name="Lookup Table Configuration.ctl" Type="VI" URL="../Typedefs/Lookup Table Configuration.ctl"/>
-		<Item Name="Lookup Table Results.ctl" Type="VI" URL="../Typedefs/Lookup Table Results.ctl"/>
-		<Item Name="Memory Polynomial Configuration.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Configuration.ctl"/>
-		<Item Name="Memory Polynomial Results.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Results.ctl"/>
 	</Item>
 	<Item Name="Configure Common.vi" Type="VI" URL="../Configure Common.vi"/>
 </Library>
