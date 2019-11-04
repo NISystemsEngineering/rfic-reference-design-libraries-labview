@@ -10,7 +10,6 @@
 </Property>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Instrument Configuration.ctl" Type="VI" URL="../Typedefs/Instrument Configuration.ctl"/>
-		<Item Name="Waveform.ctl" Type="VI" URL="../Typedefs/Waveform.ctl"/>
 		<Item Name="Waveform Timing Configuration.ctl" Type="VI" URL="../Typedefs/Waveform Timing Configuration.ctl"/>
 		<Item Name="PAEN Configuration.ctl" Type="VI" URL="../Typedefs/PAEN Configuration.ctl"/>
 	</Item>
