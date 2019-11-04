@@ -8,8 +8,8 @@
 
 </Property>
 	<Item Name="Methods" Type="Folder">
-		<Item Name="Reference to Waveform.vi" Type="VI" URL="../Reference to Waveform.vi"/>
-		<Item Name="Waveform to Reference.vi" Type="VI" URL="../Waveform to Reference.vi"/>
+		<Item Name="Get Waveform Data from Reference.vi" Type="VI" URL="../Get Waveform Data from Reference.vi"/>
+		<Item Name="New Waveform Data Reference.vi" Type="VI" URL="../New Waveform Data Reference.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Local Oscillator Sharing Mode.ctl" Type="VI" URL="../Local Oscillator Sharing Mode.ctl"/>
