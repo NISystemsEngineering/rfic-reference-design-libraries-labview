@@ -18,7 +18,6 @@
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="NR Common Configuration.ctl" Type="VI" URL="../Typedefs/NR Common Configuration.ctl"/>
 		<Item Name="NR Signal Configuration.ctl" Type="VI" URL="../Typedefs/NR Signal Configuration.ctl"/>
 		<Item Name="NR Component Carrier Configuration.ctl" Type="VI" URL="../Typedefs/NR Component Carrier Configuration.ctl"/>
 		<Item Name="NR ACP Configuration.ctl" Type="VI" URL="../Typedefs/NR ACP Configuration.ctl"/>
