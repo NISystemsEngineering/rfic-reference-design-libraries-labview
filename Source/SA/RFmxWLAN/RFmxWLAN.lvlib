@@ -17,7 +17,6 @@
 		<Item Name="WLAN TxP Servo Power.vi" Type="VI" URL="../Measurements/WLAN TxP Servo Power.vi"/>
 	</Item>
 	<Item Name="Typdefs" Type="Folder">
-		<Item Name="WLAN Common Configuration.ctl" Type="VI" URL="../Typedefs/WLAN Common Configuration.ctl"/>
 		<Item Name="WLAN OFDM ModAcc Configuration.ctl" Type="VI" URL="../Typedefs/WLAN OFDM ModAcc Configuration.ctl"/>
 		<Item Name="WLAN OFDM ModAcc Results.ctl" Type="VI" URL="../Typedefs/WLAN OFDM ModAcc Results.ctl"/>
 		<Item Name="WLAN SEM Configuration.ctl" Type="VI" URL="../Typedefs/WLAN SEM Configuration.ctl"/>
