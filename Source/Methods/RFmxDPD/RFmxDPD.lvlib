@@ -14,8 +14,11 @@
 		<Item Name="Lookup Table Results.ctl" Type="VI" URL="../Typedefs/Lookup Table Results.ctl"/>
 		<Item Name="Memory Polynomial Results.ctl" Type="VI" URL="../Typedefs/Memory Polynomial Results.ctl"/>
 		<Item Name="Power Results.ctl" Type="VI" URL="../Typedefs/Power Results.ctl"/>
+		<Item Name="Pre DPD Crest Factor Reduction Carrier Channel.ctl" Type="VI" URL="../Typedefs/Pre DPD Crest Factor Reduction Carrier Channel.ctl"/>
+		<Item Name="Pre DPD Crest Factor Reduction.ctl" Type="VI" URL="../Typedefs/Pre DPD Crest Factor Reduction.ctl"/>
 	</Item>
 	<Item Name="Measurements" Type="Folder">
+		<Item Name="Configure Pre DPD Crest Factor Reduction.vi" Type="VI" URL="../Measurements/Configure Pre DPD Crest Factor Reduction.vi"/>
 		<Item Name="Configure Lookup Table.vi" Type="VI" URL="../Measurements/Configure Lookup Table.vi"/>
 		<Item Name="Configure Memory Polynomial.vi" Type="VI" URL="../Measurements/Configure Memory Polynomial.vi"/>
 		<Item Name="Perform Lookup Table.vi" Type="VI" URL="../Measurements/Perform Lookup Table.vi"/>
