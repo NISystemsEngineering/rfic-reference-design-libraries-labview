@@ -16,6 +16,7 @@
 		<Item Name="Power Results.ctl" Type="VI" URL="../Typedefs/Power Results.ctl"/>
 		<Item Name="Pre DPD Crest Factor Reduction Carrier Channel.ctl" Type="VI" URL="../Typedefs/Pre DPD Crest Factor Reduction Carrier Channel.ctl"/>
 		<Item Name="Pre DPD Crest Factor Reduction.ctl" Type="VI" URL="../Typedefs/Pre DPD Crest Factor Reduction.ctl"/>
+		<Item Name="Apply DPD Crest Factor Reduction.ctl" Type="VI" URL="../Typedefs/Apply DPD Crest Factor Reduction.ctl"/>
 	</Item>
 	<Item Name="Measurements" Type="Folder">
 		<Item Name="Configure Pre DPD Crest Factor Reduction.vi" Type="VI" URL="../Measurements/Configure Pre DPD Crest Factor Reduction.vi"/>
@@ -25,4 +26,5 @@
 		<Item Name="Perform Memory Polynomial.vi" Type="VI" URL="../Measurements/Perform Memory Polynomial.vi"/>
 	</Item>
 	<Item Name="Configure Common.vi" Type="VI" URL="../Configure Common.vi"/>
+	<Item Name="Configure Apply DPD Crest Factor Reduction.vi" Type="VI" URL="../Measurements/Configure Apply DPD Crest Factor Reduction.vi"/>
 </Library>
