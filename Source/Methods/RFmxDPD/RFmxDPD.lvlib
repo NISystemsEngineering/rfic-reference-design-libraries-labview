@@ -24,7 +24,7 @@
 		<Item Name="Configure Memory Polynomial.vi" Type="VI" URL="../Measurements/Configure Memory Polynomial.vi"/>
 		<Item Name="Perform Lookup Table.vi" Type="VI" URL="../Measurements/Perform Lookup Table.vi"/>
 		<Item Name="Perform Memory Polynomial.vi" Type="VI" URL="../Measurements/Perform Memory Polynomial.vi"/>
+		<Item Name="Configure Apply DPD Crest Factor Reduction.vi" Type="VI" URL="../Measurements/Configure Apply DPD Crest Factor Reduction.vi"/>
 	</Item>
 	<Item Name="Configure Common.vi" Type="VI" URL="../Configure Common.vi"/>
-	<Item Name="Configure Apply DPD Crest Factor Reduction.vi" Type="VI" URL="../Measurements/Configure Apply DPD Crest Factor Reduction.vi"/>
 </Library>
