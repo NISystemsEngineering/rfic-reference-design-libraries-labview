@@ -33,5 +33,5 @@
 		<Item Name="NR CHP Results.ctl" Type="VI" URL="../Typedefs/NR CHP Results.ctl"/>
 	</Item>
 	<Item Name="NR Configure Common.vi" Type="VI" URL="../NR Configure Common.vi"/>
-	<Item Name="NR Configure Signal.vi" Type="VI" URL="../NR Configure Signal.vi"/>
+	<Item Name="NR Configure Standard.vi" Type="VI" URL="../NR Configure Standard.vi"/>
 </Library>

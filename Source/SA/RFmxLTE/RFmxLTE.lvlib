@@ -28,5 +28,5 @@
 		<Item Name="LTE ACP Results.ctl" Type="VI" URL="../Typedefs/LTE ACP Results.ctl"/>
 	</Item>
 	<Item Name="LTE Configure Common.vi" Type="VI" URL="../LTE Configure Common.vi"/>
-	<Item Name="LTE Configure Signal.vi" Type="VI" URL="../LTE Configure Signal.vi"/>
+	<Item Name="LTE Configure Standard.vi" Type="VI" URL="../LTE Configure Standard.vi"/>
 </Library>

@@ -30,5 +30,5 @@
 		<Item Name="WLAN TxP Servo Results.ctl" Type="VI" URL="../Typedefs/WLAN TxP Servo Results.ctl"/>
 	</Item>
 	<Item Name="WLAN Configure Common.vi" Type="VI" URL="../WLAN Configure Common.vi"/>
-	<Item Name="WLAN Configure Signal.vi" Type="VI" URL="../WLAN Configure Signal.vi"/>
+	<Item Name="WLAN Configure Standard.vi" Type="VI" URL="../WLAN Configure Standard.vi"/>
 </Library>
