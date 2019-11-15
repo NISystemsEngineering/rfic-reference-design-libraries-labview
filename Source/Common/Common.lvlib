@@ -13,6 +13,7 @@
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Local Oscillator Sharing Mode.ctl" Type="VI" URL="../Local Oscillator Sharing Mode.ctl"/>
+		<Item Name="SA Auto Level Configuration.ctl" Type="VI" URL="../SA Auto Level Configuration.ctl"/>
 		<Item Name="SA Common Configuration.ctl" Type="VI" URL="../SA Common Configuration.ctl"/>
 		<Item Name="Waveform.ctl" Type="VI" URL="../Waveform.ctl"/>
 	</Item>
