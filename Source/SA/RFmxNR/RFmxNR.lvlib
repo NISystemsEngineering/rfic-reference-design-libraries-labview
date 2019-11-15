@@ -15,6 +15,7 @@
 		<Item Name="NR Fetch ModAcc.vi" Type="VI" URL="../Measurements/NR Fetch ModAcc.vi"/>
 		<Item Name="NR Configure CHP.vi" Type="VI" URL="../Measurements/NR Configure CHP.vi"/>
 		<Item Name="NR Fetch CHP.vi" Type="VI" URL="../Measurements/NR Fetch CHP.vi"/>
+		<Item Name="NR Select and Initiate Measurements.vi" Type="VI" URL="../Measurements/NR Select and Initiate Measurements.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>

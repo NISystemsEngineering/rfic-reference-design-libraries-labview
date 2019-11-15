@@ -13,6 +13,7 @@
 		<Item Name="LTE Configure ModAcc.vi" Type="VI" URL="../Measurements/LTE Configure ModAcc.vi"/>
 		<Item Name="LTE Fetch ACP.vi" Type="VI" URL="../Measurements/LTE Fetch ACP.vi"/>
 		<Item Name="LTE Fetch ModAcc.vi" Type="VI" URL="../Measurements/LTE Fetch ModAcc.vi"/>
+		<Item Name="LTE Select and Initiate Measurements.vi" Type="VI" URL="../Measurements/LTE Select and Initiate Measurements.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
