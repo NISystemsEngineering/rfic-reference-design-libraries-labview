@@ -15,6 +15,7 @@
 		<Item Name="SpecAn Fetch TxP.vi" Type="VI" URL="../Measurements/SpecAn Fetch TxP.vi"/>
 		<Item Name="SpecAn Configure ACP.vi" Type="VI" URL="../Measurements/SpecAn Configure ACP.vi"/>
 		<Item Name="SpecAn Fetch ACP.vi" Type="VI" URL="../Measurements/SpecAn Fetch ACP.vi"/>
+		<Item Name="SpecAn Select and Initiate Measurements.vi" Type="VI" URL="../Measurements/SpecAn Select and Initiate Measurements.vi"/>
 	</Item>
 	<Item Name="Typdefs" Type="Folder">
 		<Item Name="SpecAn TxP Configuration.ctl" Type="VI" URL="../Typedefs/SpecAn TxP Configuration.ctl"/>

@@ -15,6 +15,7 @@
 		<Item Name="NR Fetch ModAcc.vi" Type="VI" URL="../Measurements/NR Fetch ModAcc.vi"/>
 		<Item Name="NR Configure CHP.vi" Type="VI" URL="../Measurements/NR Configure CHP.vi"/>
 		<Item Name="NR Fetch CHP.vi" Type="VI" URL="../Measurements/NR Fetch CHP.vi"/>
+		<Item Name="NR Select and Initiate Measurements.vi" Type="VI" URL="../Measurements/NR Select and Initiate Measurements.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -32,5 +33,5 @@
 		<Item Name="NR CHP Results.ctl" Type="VI" URL="../Typedefs/NR CHP Results.ctl"/>
 	</Item>
 	<Item Name="NR Configure Common.vi" Type="VI" URL="../NR Configure Common.vi"/>
-	<Item Name="NR Configure Signal.vi" Type="VI" URL="../NR Configure Signal.vi"/>
+	<Item Name="NR Configure Standard.vi" Type="VI" URL="../NR Configure Standard.vi"/>
 </Library>
