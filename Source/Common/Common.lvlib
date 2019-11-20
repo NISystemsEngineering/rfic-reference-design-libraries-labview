@@ -10,7 +10,7 @@
 	<Item Name="Methods" Type="Folder">
 		<Item Name="Get Waveform Data from Reference.vi" Type="VI" URL="../Get Waveform Data from Reference.vi"/>
 		<Item Name="New Waveform Data Reference.vi" Type="VI" URL="../New Waveform Data Reference.vi"/>
-		<Item Name="Update Waveform Name and Script.vi" Type="VI" URL="../Update Waveform Name and Script.vi"/>
+		<Item Name="Waveform Update Name and Script.vi" Type="VI" URL="../Waveform Update Name and Script.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Local Oscillator Sharing Mode.ctl" Type="VI" URL="../Local Oscillator Sharing Mode.ctl"/>
