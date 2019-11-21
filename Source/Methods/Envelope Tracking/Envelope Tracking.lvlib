@@ -9,12 +9,17 @@
 </Property>
 	<Item Name="Methods" Type="Folder">
 		<Item Name="Configure Envelope Generator.vi" Type="VI" URL="../Methods/Configure Envelope Generator.vi"/>
+		<Item Name="Create Detrough Envelope Waveform.vi" Type="VI" URL="../Methods/Create Detrough Envelope Waveform.vi"/>
+		<Item Name="Create Lookup Table Envelope Waveform.vi" Type="VI" URL="../Methods/Create Lookup Table Envelope Waveform.vi"/>
+		<Item Name="Initiate Synchronous Generation.vi" Type="VI" URL="../Methods/Initiate Synchronous Generation.vi"/>
+		<Item Name="Scale and Download Envelope Waveform.vi" Type="VI" URL="../Methods/Scale and Download Envelope Waveform.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Detrough Configuration.ctl" Type="VI" URL="../Typedefs/Detrough Configuration.ctl"/>
 		<Item Name="Detrough Type.ctl" Type="VI" URL="../Typedefs/Detrough Type.ctl"/>
 		<Item Name="Envelope Generator Configuration.ctl" Type="VI" URL="../Typedefs/Envelope Generator Configuration.ctl"/>
 		<Item Name="Lookup Table Configuration.ctl" Type="VI" URL="../Typedefs/Lookup Table Configuration.ctl"/>
+		<Item Name="Synchronization Configuration.ctl" Type="VI" URL="../Typedefs/Synchronization Configuration.ctl"/>
 		<Item Name="Tracker Configuration.ctl" Type="VI" URL="../Typedefs/Tracker Configuration.ctl"/>
 	</Item>
 </Library>
