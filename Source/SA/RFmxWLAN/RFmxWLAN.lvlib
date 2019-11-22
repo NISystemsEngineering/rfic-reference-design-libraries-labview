@@ -23,7 +23,7 @@
 		<Item Name="WLAN OFDM ModAcc Results.ctl" Type="VI" URL="../Typedefs/WLAN OFDM ModAcc Results.ctl"/>
 		<Item Name="WLAN SEM Configuration.ctl" Type="VI" URL="../Typedefs/WLAN SEM Configuration.ctl"/>
 		<Item Name="WLAN SEM Results.ctl" Type="VI" URL="../Typedefs/WLAN SEM Results.ctl"/>
-		<Item Name="WLAN Signal Configuration.ctl" Type="VI" URL="../Typedefs/WLAN Signal Configuration.ctl"/>
+		<Item Name="WLAN Standard Configuration.ctl" Type="VI" URL="../Typedefs/WLAN Standard Configuration.ctl"/>
 		<Item Name="WLAN TxP Configuration.ctl" Type="VI" URL="../Typedefs/WLAN TxP Configuration.ctl"/>
 		<Item Name="WLAN TxP Results.ctl" Type="VI" URL="../Typedefs/WLAN TxP Results.ctl"/>
 		<Item Name="WLAN TxP Servo Configuration.ctl" Type="VI" URL="../Typedefs/WLAN TxP Servo Configuration.ctl"/>
