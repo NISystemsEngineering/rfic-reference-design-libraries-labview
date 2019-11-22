@@ -17,7 +17,7 @@
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="LTE Signal Configuration.ctl" Type="VI" URL="../Typedefs/LTE Signal Configuration.ctl"/>
+		<Item Name="LTE Standard Configuration.ctl" Type="VI" URL="../Typedefs/LTE Standard Configuration.ctl"/>
 		<Item Name="LTE Component Carrier Configuration.ctl" Type="VI" URL="../Typedefs/LTE Component Carrier Configuration.ctl"/>
 		<Item Name="LTE ModAcc Configuration.ctl" Type="VI" URL="../Typedefs/LTE ModAcc Configuration.ctl"/>
 		<Item Name="LTE ModAcc Component Carrier Results.ctl" Type="VI" URL="../Typedefs/LTE ModAcc Component Carrier Results.ctl"/>

@@ -22,31 +22,15 @@
 				<Item Name="niDCPower Configure Current Level.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Current Level.vi"/>
 				<Item Name="niDCPower Configure Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Current Limit.vi"/>
 				<Item Name="niDCPower Configure Digital Edge Measure Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Digital Edge Measure Trigger.vi"/>
-				<Item Name="niDCPower Configure Digital Edge Pulse Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Digital Edge Pulse Trigger.vi"/>
-				<Item Name="niDCPower Configure Digital Edge Sequence Advance Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Digital Edge Sequence Advance Trigger.vi"/>
-				<Item Name="niDCPower Configure Digital Edge Source Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Digital Edge Source Trigger.vi"/>
-				<Item Name="niDCPower Configure Digital Edge Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Digital Edge Start Trigger.vi"/>
 				<Item Name="niDCPower Configure Output Enabled.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Output Enabled.vi"/>
 				<Item Name="niDCPower Configure Output Function.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Output Function.vi"/>
 				<Item Name="niDCPower Configure Sense.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Sense.vi"/>
-				<Item Name="niDCPower Configure Software Edge Measure Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Software Edge Measure Trigger.vi"/>
-				<Item Name="niDCPower Configure Software Edge Pulse Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Software Edge Pulse Trigger.vi"/>
-				<Item Name="niDCPower Configure Software Edge Sequence Advance Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Software Edge Sequence Advance Trigger.vi"/>
-				<Item Name="niDCPower Configure Software Edge Source Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Software Edge Source Trigger.vi"/>
-				<Item Name="niDCPower Configure Software Edge Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Software Edge Start Trigger.vi"/>
 				<Item Name="niDCPower Configure Source Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Source Mode.vi"/>
 				<Item Name="niDCPower Configure Trigger (Poly).vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Trigger (Poly).vi"/>
 				<Item Name="niDCPower Configure Voltage Level.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Voltage Level.vi"/>
 				<Item Name="niDCPower Configure Voltage Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Configure Voltage Limit.vi"/>
-				<Item Name="niDCPower Current Limit Behavior.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Current Limit Behavior.ctl"/>
-				<Item Name="niDCPower Digital Edge - Edge.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Digital Edge - Edge.ctl"/>
-				<Item Name="niDCPower Disable Pulse Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Disable Pulse Trigger.vi"/>
-				<Item Name="niDCPower Disable Sequence Advance Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Disable Sequence Advance Trigger.vi"/>
-				<Item Name="niDCPower Disable Source Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Disable Source Trigger.vi"/>
-				<Item Name="niDCPower Disable Start Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Disable Start Trigger.vi"/>
 				<Item Name="niDCPower Fetch Multiple.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Fetch Multiple.vi"/>
 				<Item Name="niDCPower Initiate.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Initiate.vi"/>
-				<Item Name="niDCPower IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower IVI Error Converter.vi"/>
 				<Item Name="niDCPower Measure Multiple.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Measure Multiple.vi"/>
 				<Item Name="niDCPower Output Function.ctl" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Output Function.ctl"/>
 				<Item Name="niDCPower Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/niDCPower/nidcpower.llb/niDCPower Reset.vi"/>
@@ -145,6 +129,7 @@
 				<Item Name="niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File (N Wfms,TDMS, CSG).vi"/>
 				<Item Name="niRFSGPlayback Read Waveform From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform From File.vi"/>
 				<Item Name="niRFSGPlayback Read Waveform Size From File.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Read Waveform Size From File.vi"/>
+				<Item Name="niRFSGPlayback Retrieve Automatic SG SA Shared LO.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Automatic SG SA Shared LO.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform Burst Start Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Burst Start Locations.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform Burst Stop Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform Burst Stop Locations.vi"/>
 				<Item Name="niRFSGPlayback Retrieve Waveform PAPR.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Retrieve Waveform PAPR.vi"/>
@@ -155,6 +140,7 @@
 				<Item Name="niRFSGPlayback Set Script to Generate (1 RFSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Set Script to Generate (1 RFSG).vi"/>
 				<Item Name="niRFSGPlayback Set Script to Generate (N RFSG).vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Set Script to Generate (N RFSG).vi"/>
 				<Item Name="niRFSGPlayback Set Script to Generate.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Set Script to Generate.vi"/>
+				<Item Name="niRFSGPlayback Store Automatic SG SA Shared LO.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Automatic SG SA Shared LO.vi"/>
 				<Item Name="niRFSGPlayback Store Waveform Burst Start Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Waveform Burst Start Locations.vi"/>
 				<Item Name="niRFSGPlayback Store Waveform Burst Stop Locations.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Waveform Burst Stop Locations.vi"/>
 				<Item Name="niRFSGPlayback Store Waveform LO Offset Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/niRFSGPlayback/niRFSGPlayback Store Waveform LO Offset Mode.vi"/>
@@ -179,7 +165,7 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 				<Item Name="RFmxInstr Build Signal String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Build Signal String.vi"/>
-				<Item Name="RFmxInstr Configure Frequency Reference.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Configure Frequency Reference.vi"/>
+				<Item Name="RFmxInstr Configure Automatic SG SA Shared LO.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/RFmxInstr.llb/RFmxInstr Configure Automatic SG SA Shared LO.vi"/>
 				<Item Name="RFmxInstr Error Converter.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/Support/RFmxInstrSupport.llb/RFmxInstr Error Converter.vi"/>
 				<Item Name="RFmxInstr Get Selector String Size.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/RFInstr/mx/Support/RFmxInstrSupport.llb/RFmxInstr Get Selector String Size.vi"/>
 				<Item Name="RFmxLTE ACP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Configure Averaging.vi"/>
@@ -198,6 +184,7 @@
 				<Item Name="RFmxLTE ACP Fetch Subblock Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Subblock Measurement.vi"/>
 				<Item Name="RFmxLTE ACP Fetch Total Aggregated Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch Total Aggregated Power.vi"/>
 				<Item Name="RFmxLTE ACP Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ACP Fetch.vi"/>
+				<Item Name="RFmxLTE Auto Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Auto Level.vi"/>
 				<Item Name="RFmxLTE Build Carrier String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Build Carrier String.vi"/>
 				<Item Name="RFmxLTE Build Offset String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Build Offset String.vi"/>
 				<Item Name="RFmxLTE Configure Auto DMRS Detection Enabled.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Auto DMRS Detection Enabled.vi"/>
@@ -218,6 +205,7 @@
 				<Item Name="RFmxLTE Configure Software Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Software Edge Trigger.vi"/>
 				<Item Name="RFmxLTE Configure Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Configure Trigger.vi"/>
 				<Item Name="RFmxLTE Disable Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Disable Trigger.vi"/>
+				<Item Name="RFmxLTE Initiate.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Initiate.vi"/>
 				<Item Name="RFmxLTE ModAcc Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Configure Averaging.vi"/>
 				<Item Name="RFmxLTE ModAcc Configure EVM Unit.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Configure EVM Unit.vi"/>
 				<Item Name="RFmxLTE ModAcc Configure Synchronization Mode and Interval.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Configure Synchronization Mode and Interval.vi"/>
@@ -264,6 +252,13 @@
 				<Item Name="RFmxLTE ModAcc Fetch PDSCH EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH EVM (Array).vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch PDSCH EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH EVM.vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch PDSCH QPSK Constellation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PDSCH QPSK Constellation.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PSSCH Constellation Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PSSCH Constellation Trace.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PSSCH Data EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PSSCH Data EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PSSCH Data EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PSSCH Data EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PSSCH DMRS EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PSSCH DMRS EVM (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PSSCH DMRS EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PSSCH DMRS EVM.vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PSSCH Symbol Power (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PSSCH Symbol Power (Array).vi"/>
+				<Item Name="RFmxLTE ModAcc Fetch PSSCH Symbol Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PSSCH Symbol Power.vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch PUSCH Constellation Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Constellation Trace.vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch PUSCH Data EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Data EVM (Array).vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch PUSCH Data EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch PUSCH Data EVM.vi"/>
@@ -287,6 +282,9 @@
 				<Item Name="RFmxLTE ModAcc Fetch Synchronization Signal EVM (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Synchronization Signal EVM (Array).vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch Synchronization Signal EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch Synchronization Signal EVM.vi"/>
 				<Item Name="RFmxLTE ModAcc Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE ModAcc Fetch.vi"/>
+				<Item Name="RFmxLTE Select Measurement (Multiple).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Select Measurement (Multiple).vi"/>
+				<Item Name="RFmxLTE Select Measurement (Single).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Select Measurement (Single).vi"/>
+				<Item Name="RFmxLTE Select Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/LTE/mx/RFmxLTE.llb/RFmxLTE Select Measurement.vi"/>
 				<Item Name="RFmxNR ACP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Averaging.vi"/>
 				<Item Name="RFmxNR ACP Configure Measurement Method.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Measurement Method.vi"/>
 				<Item Name="RFmxNR ACP Configure Noise Compensation Enabled.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Configure Noise Compensation Enabled.vi"/>
@@ -307,6 +305,7 @@
 				<Item Name="RFmxNR ACP Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR ACP Fetch.vi"/>
 				<Item Name="RFmxNR Auto Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Auto Level.vi"/>
 				<Item Name="RFmxNR Build Carrier String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Build Carrier String.vi"/>
+				<Item Name="RFmxNR Build Offset String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Build Offset String.vi"/>
 				<Item Name="RFmxNR CHP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Configure Averaging.vi"/>
 				<Item Name="RFmxNR CHP Configure Sweep Time.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Configure Sweep Time.vi"/>
 				<Item Name="RFmxNR CHP Fetch Component Carrier Measurement (Array).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch Component Carrier Measurement (Array).vi"/>
@@ -316,13 +315,15 @@
 				<Item Name="RFmxNR CHP Fetch Total Aggregated Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch Total Aggregated Power.vi"/>
 				<Item Name="RFmxNR CHP Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR CHP Fetch.vi"/>
 				<Item Name="RFmxNR Configure Digital Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Digital Edge Trigger.vi"/>
-				<Item Name="RFmxNR Configure External Attenuation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure External Attenuation.vi"/>
-				<Item Name="RFmxNR Configure Frequency (Frequency).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Frequency (Frequency).vi"/>
 				<Item Name="RFmxNR Configure IQ Power Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure IQ Power Edge Trigger.vi"/>
-				<Item Name="RFmxNR Configure Reference Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Reference Level.vi"/>
+				<Item Name="RFmxNR Configure RF.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure RF.vi"/>
 				<Item Name="RFmxNR Configure Software Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Software Edge Trigger.vi"/>
 				<Item Name="RFmxNR Configure Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Configure Trigger.vi"/>
 				<Item Name="RFmxNR Disable Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Disable Trigger.vi"/>
+				<Item Name="RFmxNR Initiate.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Initiate.vi"/>
+				<Item Name="RFmxNR Select Measurement (Multiple).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Select Measurement (Multiple).vi"/>
+				<Item Name="RFmxNR Select Measurement (Single).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Select Measurement (Single).vi"/>
+				<Item Name="RFmxNR Select Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/NR/mx/RFmxNR.llb/RFmxNR Select Measurement.vi"/>
 				<Item Name="RFmxSpecAn ACP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn ACP Configure Averaging.vi"/>
 				<Item Name="RFmxSpecAn ACP Configure Carrier Integration Bandwidth.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn ACP Configure Carrier Integration Bandwidth.vi"/>
 				<Item Name="RFmxSpecAn ACP Configure Carrier Mode.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn ACP Configure Carrier Mode.vi"/>
@@ -365,6 +366,7 @@
 				<Item Name="RFmxSpecAn AMPM Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn AMPM Fetch.vi"/>
 				<Item Name="RFmxSpecAn Auto Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Auto Level.vi"/>
 				<Item Name="RFmxSpecAn Build Carrier String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Carrier String.vi"/>
+				<Item Name="RFmxSpecAn Build Carrier String2.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Carrier String2.vi"/>
 				<Item Name="RFmxSpecAn Build Offset String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Offset String.vi"/>
 				<Item Name="RFmxSpecAn Build Offset String2.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Offset String2.vi"/>
 				<Item Name="RFmxSpecAn Build Signal String.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Build Signal String.vi"/>
@@ -375,6 +377,7 @@
 				<Item Name="RFmxSpecAn Configure Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Configure Trigger.vi"/>
 				<Item Name="RFmxSpecAn Disable Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Disable Trigger.vi"/>
 				<Item Name="RFmxSpecAn DPD Apply Digital Predistortion.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Apply Digital Predistortion.vi"/>
+				<Item Name="RFmxSpecAn DPD Apply Pre-DPD Signal Conditioning.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Apply Pre-DPD Signal Conditioning.vi"/>
 				<Item Name="RFmxSpecAn DPD Configure Apply DPD Lookup Table Correction Type.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure Apply DPD Lookup Table Correction Type.vi"/>
 				<Item Name="RFmxSpecAn DPD Configure Apply DPD Memory Models Correction Type.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure Apply DPD Memory Models Correction Type.vi"/>
 				<Item Name="RFmxSpecAn DPD Configure DPD Model.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn DPD Configure DPD Model.vi"/>
@@ -407,15 +410,17 @@
 				<Item Name="RFmxSpecAn TXP Fetch Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn TXP Fetch Measurement.vi"/>
 				<Item Name="RFmxSpecAn TXP Fetch Power Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn TXP Fetch Power Trace.vi"/>
 				<Item Name="RFmxSpecAn TXP Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn TXP Fetch.vi"/>
-				<Item Name="RFmxWLAN Auto Detect Signal.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Auto Detect Signal.vi"/>
+				<Item Name="RFmxSpecAn Wait for Measurement Complete.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/SpecAn/mx/RFmxSpecAn.llb/RFmxSpecAn Wait for Measurement Complete.vi"/>
 				<Item Name="RFmxWLAN Auto Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Auto Level.vi"/>
 				<Item Name="RFmxWLAN Clone Signal Configuration.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Clone Signal Configuration.vi"/>
+				<Item Name="RFmxWLAN Configure Channel Bandwidth.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Channel Bandwidth.vi"/>
 				<Item Name="RFmxWLAN Configure Digital Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Digital Edge Trigger.vi"/>
 				<Item Name="RFmxWLAN Configure External Attenuation.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure External Attenuation.vi"/>
 				<Item Name="RFmxWLAN Configure Frequency.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Frequency.vi"/>
 				<Item Name="RFmxWLAN Configure IQ Power Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure IQ Power Edge Trigger.vi"/>
 				<Item Name="RFmxWLAN Configure Reference Level.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Reference Level.vi"/>
 				<Item Name="RFmxWLAN Configure Software Edge Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Software Edge Trigger.vi"/>
+				<Item Name="RFmxWLAN Configure Standard.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Standard.vi"/>
 				<Item Name="RFmxWLAN Configure Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Configure Trigger.vi"/>
 				<Item Name="RFmxWLAN Delete Signal Configuration.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Delete Signal Configuration.vi"/>
 				<Item Name="RFmxWLAN Disable Trigger.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Disable Trigger.vi"/>
@@ -443,6 +448,7 @@
 				<Item Name="RFmxWLAN OFDMModAcc Fetch IQ Gain Imbalance per Subcarrier Mean Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch IQ Gain Imbalance per Subcarrier Mean Trace.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch IQ Impairments.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch IQ Impairments.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch IQ Quadrature Error per Subcarrier Mean Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch IQ Quadrature Error per Subcarrier Mean Trace.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch L-SIG Parity Check Status.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch L-SIG Parity Check Status.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch MCS Index.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch MCS Index.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Number of HE-SIG-B Symbols.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Number of HE-SIG-B Symbols.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Number of Space Time Streams.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Number of Space Time Streams.vi"/>
@@ -458,11 +464,14 @@
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Preamble Average Powers (802.11ax).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Preamble Average Powers (802.11ax).vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Preamble Average Powers (802.11n).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Preamble Average Powers (802.11n).vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Preamble Average Powers (Common).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Preamble Average Powers (Common).vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch Preamble Frequency Error Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Preamble Frequency Error Trace.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Preamble Peak Powers (802.11ac).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Preamble Peak Powers (802.11ac).vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Preamble Peak Powers (802.11ax).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Preamble Peak Powers (802.11ax).vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Preamble Peak Powers (802.11n).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Preamble Peak Powers (802.11n).vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Preamble Peak Powers (Common).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Preamble Peak Powers (Common).vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch RU Offset and Size.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch RU Offset and Size.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch SIG CRC Status.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch SIG CRC Status.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch SIG-B CRC Status.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch SIG-B CRC Status.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Spectral Flatness Mean Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Spectral Flatness Mean Trace.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Spectral Flatness.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Spectral Flatness.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Subcarrier Chain EVM per Symbol Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Subcarrier Chain EVM per Symbol Trace.vi"/>
@@ -471,6 +480,12 @@
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Unused Tone Error Margin per RU.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Unused Tone Error Margin per RU.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Unused Tone Error Mean Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Unused Tone Error Mean Trace.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch Unused Tone Error.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch Unused Tone Error.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch User Data Constellation Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch User Data Constellation Trace.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch User Pilot Constellation Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch User Pilot Constellation Trace.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch User Stream Data RMS EVM per Symbol Mean Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch User Stream Data RMS EVM per Symbol Mean Trace.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch User Stream Pilot RMS EVM per Symbol Mean Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch User Stream Pilot RMS EVM per Symbol Mean Trace.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch User Stream RMS EVM per Subcarrier Mean Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch User Stream RMS EVM per Subcarrier Mean Trace.vi"/>
+				<Item Name="RFmxWLAN OFDMModAcc Fetch User Stream RMS EVM per Symbol Mean Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch User Stream RMS EVM per Symbol Mean Trace.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch User Stream RMS EVM.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch User Stream RMS EVM.vi"/>
 				<Item Name="RFmxWLAN OFDMModAcc Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN OFDMModAcc Fetch.vi"/>
 				<Item Name="RFmxWLAN Select Measurement (Multiple).vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN Select Measurement (Multiple).vi"/>
@@ -493,15 +508,13 @@
 				<Item Name="RFmxWLAN SEM Fetch Upper Offset Power.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch Upper Offset Power.vi"/>
 				<Item Name="RFmxWLAN SEM Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN SEM Fetch.vi"/>
 				<Item Name="RFmxWLAN TXP Configure Averaging.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Configure Averaging.vi"/>
+				<Item Name="RFmxWLAN TXP Configure Burst Detection Enabled.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Configure Burst Detection Enabled.vi"/>
 				<Item Name="RFmxWLAN TXP Configure Maximum Measurement Interval.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Configure Maximum Measurement Interval.vi"/>
 				<Item Name="RFmxWLAN TXP Fetch Measurement.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Fetch Measurement.vi"/>
 				<Item Name="RFmxWLAN TXP Fetch Power Trace.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Fetch Power Trace.vi"/>
 				<Item Name="RFmxWLAN TXP Fetch.vi" Type="VI" URL="/&lt;vilib&gt;/RFmx/WLAN/mx/RFmxWLAN.llb/RFmxWLAN TXP Fetch.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="nidcpower_64.dll" Type="Document" URL="nidcpower_64.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="niDigital_64.dll" Type="Document" URL="niDigital_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
