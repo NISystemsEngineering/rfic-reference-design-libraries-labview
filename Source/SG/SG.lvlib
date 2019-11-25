@@ -29,6 +29,7 @@
 		<Item Name="Time to Samples.vi" Type="VI" URL="../Time to Samples.vi"/>
 		<Item Name="Generate Dynamic Script.vi" Type="VI" URL="../Generate Dynamic Script.vi"/>
 		<Item Name="Calculate Waveform Duration.vi" Type="VI" URL="../Calculate Waveform Duration.vi"/>
+		<Item Name="Format Waveform Name.vi" Type="VI" URL="../Format Waveform Name.vi"/>
 	</Item>
 	<Item Name="Abort Generation.vi" Type="VI" URL="../Abort Generation.vi"/>
 	<Item Name="Close Instrument.vi" Type="VI" URL="../Close Instrument.vi"/>
