@@ -25,6 +25,6 @@
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="CloneAndConditionReferenceWaveform.vi" Type="VI" URL="../Private/CloneAndConditionReferenceWaveform.vi"/>
+		<Item Name="Clone and Condition Reference Waveform.vi" Type="VI" URL="../Private/Clone and Condition Reference Waveform.vi"/>
 	</Item>
 </Library>
