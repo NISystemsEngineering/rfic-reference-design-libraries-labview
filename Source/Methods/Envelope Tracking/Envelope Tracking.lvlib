@@ -17,10 +17,14 @@
 		<Item Name="Synchronization Configuration.ctl" Type="VI" URL="../Typedefs/Synchronization Configuration.ctl"/>
 	</Item>
 	<Item Name="Methods" Type="Folder">
-		<Item Name="Create Detrough Envelope Waveform.vi" Type="VI" URL="../Methods/Create Detrough Envelope Waveform.vi"/>
 		<Item Name="Create Lookup Table Envelope Waveform.vi" Type="VI" URL="../Methods/Create Lookup Table Envelope Waveform.vi"/>
+		<Item Name="Create Detrough Envelope Waveform.vi" Type="VI" URL="../Methods/Create Detrough Envelope Waveform.vi"/>
 		<Item Name="Configure Envelope Generator.vi" Type="VI" URL="../Methods/Configure Envelope Generator.vi"/>
 		<Item Name="Scale and Download Envelope Waveform.vi" Type="VI" URL="../Methods/Scale and Download Envelope Waveform.vi"/>
 		<Item Name="Initiate Synchronous Generation.vi" Type="VI" URL="../Methods/Initiate Synchronous Generation.vi"/>
+	</Item>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="CloneAndConditionReferenceWaveform.vi" Type="VI" URL="../Private/CloneAndConditionReferenceWaveform.vi"/>
 	</Item>
 </Library>
