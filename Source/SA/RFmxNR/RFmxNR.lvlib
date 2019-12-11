@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="16008000">
+	<Property Name="NI.Lib.Description" Type="Str">Defines common types and methods for NI-RFmx NR measurements.</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)O!!!*Q(C=\&gt;8.43."%-8RZR5(LO;Q"U\)+&lt;Q5H)*4K"4-U5=@O69+4M%J6!K7.A+H-0PPJB="%B["1/S"(J=`8E^X`ZBJ$6*PV^+6JLFW@\'^JX^KLV=TPOC@7H]`\YXRU_8R^X0D,`@0_4`70^0UUX\;^\&lt;&gt;\#&lt;^]DW\5(M1555F&amp;:46FJK+P-C,P-C,P-C40-G40-G40-G$0-C$0-C$0-B.&lt;H+4G^TE*O](O=B&amp;,H*)R?,&amp;1M7ER14&amp;S6"5P"7?QF.Y#A]`68A+4_%J0)7(5V2Y#E`B+4S&amp;BW%K0)7H]"3?QM.586,^)-&gt;4?*B?C3@R**\%EXB95IEH!33,*2-HE]"1UJF]34S**`(Q69EH]33?R*.Y[&amp;&lt;C34S**`%E(I&lt;UKZ*&gt;UQZS0%SDQ".Y!E`A#4R-L=!4?!*0Y!E],+@!%XA#2,"A-$E%"9/#%Y)@A3@Q]+(!%XA#4_!*0(4V/R4^SD2./]DR')`R')`R'!^4S(C-RXC-RXC96M:D0-:D0-&lt;$5D)?YT%?!T',MLT-:';A/=E%RM/L\R&lt;XOZ2&gt;YHZ)9`.K&lt;%K.T;;RC41WB]:.V\C:'D&gt;*Y_*L8&amp;3.C[6R%44_/!WU"E:D%9X"\53&gt;?4^22_J!\;ENN;(7V)J;NK'@@/,Z@.&lt;J&gt;.,R?.4B=."_P^&gt;WO^6GM^&amp;[P&gt;:KN&gt;*SO8R[$.RR0$U1(J^,/\\XOPGTW.U_,(;`_&lt;RZ?+R`@&gt;18`3`^$Z[._K8H]X+.`A*,`M-W!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
