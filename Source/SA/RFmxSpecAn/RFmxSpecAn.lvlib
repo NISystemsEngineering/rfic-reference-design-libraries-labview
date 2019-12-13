@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="16008000">
+	<Property Name="NI.Lib.Description" Type="Str">Defines common types and methods for NI-RFmx SpecAn measurements.</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*7!!!*Q(C=\&gt;7^&lt;2N"%)&lt;B4Y)#2A&lt;9A5(!A0/"/W!,L-$'N%#&amp;#GS!O1.B!A=+G""1!1*&lt;',A$NM!74O]OBT^+2!/S9!?]UUL(&lt;X&gt;H(^YN4F)`2N+.BH0(\;P(H`3X)M0_9D?D8\3@VN8(^1`\CZKW[\^^-@6U^$$5_M=C_[K\OD8E-/WES,(`T&gt;`P^@YTBS\(Z@CXR^X:4@LO?`:+\56%3VL1H':K3QV*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O4^*"?ZS%5/+6E]73AJGB2)"E.2]CPR**\%EXDYK-34?"*0YEE]$&amp;(C34S**`%E(K9J]33?R*.Y%A_FOC4\39YH]6"?A3@Q"*\!%XB95I%H!!3,"97$)D!5&gt;!98A3@Q""YO&amp;8A#4_!*0)'(&lt;A7?Q".Y!E`A95K`+^%V\34(1REZ(M@D?"S0Y['U()`D=4S/R`'QH"S0YX%1TI*/=1BS*DE$H!_/R`(Q2Y\(]4A?R_.Y[/J0S0O&gt;;:JWEO-R0)&lt;(]"A?QU-*'2\$9XA-D_'BL!S0Y4%]BM@QM*1-D_%R0!&lt;%7*4F:21T*BK$D-$Q]..XC`7H&amp;&amp;VC`:2K][IWJ7KTK4;2;H/I(LLK9;I?EOLGKW[K[G;J&lt;I,KS[H1+IRK%&gt;8E.F"&lt;@G^I;^K+NK$.;40;F$;BD&gt;P5PTRQO^VKM^FIP6ZLN6JJM6BI0J^L.JNJ/JVK-JFI0"Y@8A-@/1]PB.V\[9\LVH\^`PLJY@00,Z(@(X_-\J&gt;0(\YN^XWNP&gt;0`UP`AX;BLH&gt;&lt;F(DU$*VX&lt;(Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

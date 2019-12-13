@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="16008000">
+	<Property Name="NI.Lib.Description" Type="Str">Defines common types and methods for configuring instruments with NI-RFmx.</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*%!!!*Q(C=\&gt;7`43.2%-@RXS'#3]UV=(),5Y%FN_!7JA5\B)U=HI\A.#UY*&gt;Q7*C2V#WZB_&lt;\('#&amp;!'!H1%&lt;$L-@&lt;P`@NY^WG2_P&amp;4/N&gt;U[NC]?LSR@?,M,\Y@[UH\&gt;.^JMTFW@4J_GOJLT@03`)]'0RO`/3\\1PN\@^]L\3=/@2`@R`]^,E^OUE`@MT`5(E255E%Z:7J,45G?Z%G?Z%G?Z%%?Z%%?Z%%?Z%\OZ%\OZ%\OZ%:OZ%:OZ%:OZ0UE&amp;\H)21YJ74R:+*EUG3$J$%8*7_**0)EH]@"6C3@R**\%EXDIIM34?"*0YEE]$&amp;0C34S**`%E(K&lt;KEOQH/:\%Q`1+0)%H]!3?Q-/3#DQ")&amp;AMG$C9");#RO"$Y!E]A9?0#DS"*`!%HM"$MQ*0Y!E]A3@Q-+2@F?C;&gt;J,D92IZ(M@D?"S0YW&amp;K/2\(YXA=D_.B/4E?R_-AH!7&gt;S3()'?2U=,YY(M@$(TE?R_.Y()`DI;H@)?^8JGH;39\(]"A?QW.Y$!^4S0!9(M.D?!Q0U]LQ'"\$9XA-$UP*]"A?QW.!D%6:8M:ERE#DER%9(FZ^NVC`3^%FVE_J.K^K5[IWGWI4K4;([K;L&lt;K&lt;K*KEOPOKCKC[7[C+I@JQ+L=+I&amp;F%.&lt;BVVY(V0D&gt;3/WF*L;E5NK4EV;U-`O/0B=."_P^=YDNLN&gt;NJONVKPVVKN6FIOFZL0ZZL.:A_0A&gt;_=$Q_%__@3*:^&lt;$&gt;@DV8"\M2BO@FU.@`YOBH]8CW.&lt;KU`[8`I&amp;HIU[U_.ZO5:X^:T2C1!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

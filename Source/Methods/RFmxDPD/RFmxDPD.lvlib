@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="16008000">
+	<Property Name="NI.Lib.Description" Type="Str">Defines common types and methods for implementing DPD with NI-RFmx.</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)2!!!*Q(C=\&gt;4"&lt;3*"&amp;)4BWJ50?S7$&amp;3G]MW_E1!IP";Y_EE+F1!KE5#G1!CGQ`\2;W*+&amp;W&lt;6ML1`OI=&gt;10@0[=U^LJ.&amp;_31_[X'O0&lt;\;`(R_FHE_PRZ@0]_H'_/8S_/&lt;Y^&gt;O._;`@`NH`XP%\4&gt;`NO`X@^H2XEX\[HPWBZ56%$^XUJJ?7K3YB$XH)1R\SE*P=Z#9XO=F.XO2.XO2.XO2.8O2&amp;8O2&amp;8O2&amp;0AZSE9N=Z*$#Z''C5$15#"&gt;$54A&amp;4`!%4`$Q5]%40-%40-($*1K?Y!G?Y!E?&lt;F0Q"%`Q"%`Q5'J)-AZS0-&amp;$?2G0]2C0]2A05]JY$-"-:AK&lt;)D"E"MU8YT%?Y_'LD-&gt;YD-&gt;YD)&gt;B'9`R')`R'!_XD&amp;8RU#Q(/2\+K0%UHM&lt;4?"I0J&gt;6Y'E`D;4S.B_H5?"J0AWAG&lt;)J$5(.4=U(TI`%U(P[I]43?RN.Y'A^$YQHV7*F&amp;MRTE?!J0Y3E]B;@Q5%+&amp;J`!5HM*4?#CLQF.Y#E`B+4R-J=*4?!J0!3EG:8I6R9I&lt;CYO+I0$Q'&lt;OFRF0SE.1YJ,FZ.4?FZG&lt;4X%3;GU0TI7M_4-W(J,HYGIOKO6C;C[$ZTWGC.4';EWD?P&amp;SI-_=4`5A`U0@U(8V,X^$8^.6S[Q&gt;@?$[@&gt;4K&gt;&gt;$Q?&gt;4A=N.`PN&gt;PNN.VON&gt;FMN&amp;[PN6KNLK_"XRT8&amp;]*8?#^^#=.0P;T,'PU"@;/K*A!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

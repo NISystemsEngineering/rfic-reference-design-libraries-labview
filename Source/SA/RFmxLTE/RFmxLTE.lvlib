@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="16008000">
+	<Property Name="NI.Lib.Description" Type="Str">Defines common types and methods for NI-RFmx LTE measurements.</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)R!!!*Q(C=\&gt;8.&lt;&gt;N!%-8RJ]#(8.7"L4119#\*83WIB7F"0OKI&amp;K9&amp;62"!,&lt;Q7V)*;90Z=$Y1YM%-EC*%=4(LU]:;\_^.S15PD_#D&gt;;6I[(H^Z`%&lt;\.,Z/D]`'`+F^@HEWYEPNUU,\;`WHK@O`00_3`Q`&lt;&amp;Q[^(_`(PTU/CZPUT@@M3P/$C$*66&amp;+B?;L*Z#9XO=F.&lt;P)C,`)C,`)C,`)E4`)E4`)E4`)A$`)A$`)A$`*REIN=Z#+(:#9X%ZF"T1$G9CAS,]:D0-:D0(S6]2C0]2C0]8#*D-&gt;YD-&gt;YD)&gt;O-B\D-2\D-2[''B+0ERS0]4#]#E`B+4S&amp;J`!QJ1J0!3AG+Q9O"I'BIL(Y5(A+4_(BIQJ0Y3E]B;@QU+T#5XA+4_%J0(1:KV*$-Z`E?"B'C3@R**\%EXA97IEH]33?R*.YG%[**`%EC'4#:(!)3DIF&amp;S2@%E`CY5W**`%EHM34?'A;&gt;SD(SMS;_34(%XA#4_!*0)'()22Y!E`A#4S"BW%6?!*0Y!E]A9?J&amp;(A#4_!*)-'E4+^AM+"D=&amp;%1""\_RG[*=:&gt;K3'+=5G^?^;:5&lt;T&lt;V*F*P$P6.6^^-^5V3,\Z[5&gt;7,J6Y%^9^4I^59^34KTP/&amp;OP*[I=\5C4J3?WJ(&lt;;E.N:[\`O5,L^?L,J?,TO?T4K?4DM?D^PO^&gt;LO&gt;NNON.JO.VOPV\4&amp;QTXF\)$Q^FQZ](P8JW_LQ=%^^@HL`_G6V;[0?[(`J@`"MV!@^/#ZL^"V&lt;I]&amp;`!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
