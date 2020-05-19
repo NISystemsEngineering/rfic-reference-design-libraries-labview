@@ -18,7 +18,7 @@
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Common Configuration.ctl" Type="VI" URL="../Typedefs/Common Configuration.ctl"/>
-		<Item Name="S Parameter.ctl" Type="VI" URL="../Typedefs/S Parameter.ctl"/>
+		<Item Name="S Parameters.ctl" Type="VI" URL="../Typedefs/S Parameters.ctl"/>
 		<Item Name="VSWR and Phase.ctl" Type="VI" URL="../Typedefs/VSWR and Phase.ctl"/>
 	</Item>
 </Library>
