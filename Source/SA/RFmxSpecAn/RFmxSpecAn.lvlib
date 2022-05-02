@@ -10,6 +10,8 @@
 
 </Property>
 	<Item Name="Measurements" Type="Folder">
+		<Item Name="SpecAn Configure IM.vi" Type="VI" URL="../Measurements/SpecAn Configure IM.vi"/>
+		<Item Name="SpecAn Fetch IM.vi" Type="VI" URL="../Measurements/SpecAn Fetch IM.vi"/>
 		<Item Name="SpecAn Configure AMPM.vi" Type="VI" URL="../Measurements/SpecAn Configure AMPM.vi"/>
 		<Item Name="SpecAn Fetch AMPM.vi" Type="VI" URL="../Measurements/SpecAn Fetch AMPM.vi"/>
 		<Item Name="SpecAn Configure TxP.vi" Type="VI" URL="../Measurements/SpecAn Configure TxP.vi"/>
@@ -29,6 +31,9 @@
 		<Item Name="SpecAn ACP Component Carrier Results.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Component Carrier Results.ctl"/>
 		<Item Name="SpecAn ACP Results.ctl" Type="VI" URL="../Typedefs/SpecAn ACP Results.ctl"/>
 		<Item Name="SpecAn AMPM Results.ctl" Type="VI" URL="../Typedefs/SpecAn AMPM Results.ctl"/>
+		<Item Name="SpecAn IM Configuration.ctl" Type="VI" URL="../SpecAn IM Configuration.ctl"/>
+		<Item Name="SpecAn IM Results.ctl" Type="VI" URL="../Typedefs/SpecAn IM Results.ctl"/>
+		<Item Name="SpecAn IM Intermod Order Results.ctl" Type="VI" URL="../Typedefs/SpecAn IM Intermod Order Results.ctl"/>
 	</Item>
 	<Item Name="SpecAn Configure Common.vi" Type="VI" URL="../SpecAn Configure Common.vi"/>
 </Library>
